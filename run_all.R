@@ -2,7 +2,8 @@
 # Advertising Campaign Performance Analysis
 # Main execution script
 # Set the working directory to the GitHub repository root
-if (nzchar(Sys.getenv("GITHUB_WORKSPACE"))) {
+{
+  if(nzchar(Sys.getenv("GITHUB_WORKSPACE"))) 
   setwd(Sys.getenv("GITHUB_WORKSPACE"))
 }
 # Create required output directories
