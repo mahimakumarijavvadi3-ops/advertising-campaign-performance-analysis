@@ -1,0 +1,27 @@
+EXPECTED/REFERENCE ANALYSIS OUTPUT
+==================================
+These values are stored as reproducible reference evidence for the fixed dataset. The repository contains the R code and GitHub Actions workflow that execute the same analysis with R.
+
+Rows: 1200 | Train: 960 | Test: 240
+Total spend: $1,029,708.66
+Total revenue: $8,597,014.43
+Conversions: 73,811
+Overall CTR: 2.15%
+Overall ROAS: 8.3490
+
+Model: multiple linear regression
+Train R-squared: 0.963060
+Adjusted R-squared: 0.962552
+Test R-squared: 0.951857
+RMSE: 1731.537384
+MAE: 893.723968
+F-statistic: 1897.166086
+Overall model p-value: < 0.001
+AIC: 16639.525885
+BIC: 16707.662951
+
+Statistical evidence
+Platform ANOVA: F=28.861483, p=7.224270e-18
+Pearson spend/revenue: r=0.763038, p=9.089124e-184
+Variance check: statistic=286.703153, p=2.599701e-64
+Shapiro-Wilk: W=0.874554, p=4.361312e-27

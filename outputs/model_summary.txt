@@ -1,0 +1,39 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                revenue   R-squared:                       0.963
+Model:                            OLS   Adj. R-squared:                  0.963
+Method:                 Least Squares   F-statistic:                     1897.
+Date:                Sat, 29 Aug 2026   Prob (F-statistic):               0.00
+Time:                        17:19:24   Log-Likelihood:                -8305.8
+No. Observations:                 960   AIC:                         1.664e+04
+Df Residuals:                     946   BIC:                         1.671e+04
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+===============================================================================================
+                                  coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------------
+Intercept                     -24.3400    180.472     -0.135      0.893    -378.511     329.831
+C(platform)[T.LinkedIn Ads]   193.5539    172.991      1.119      0.263    -145.936     533.044
+C(platform)[T.Meta Ads]        -1.6072    127.599     -0.013      0.990    -252.017     248.802
+C(platform)[T.YouTube Ads]    118.2956    210.951      0.561      0.575    -295.690     532.281
+C(campaign_type)[T.Search]      4.8335    140.095      0.035      0.972    -270.099     279.766
+C(campaign_type)[T.Social]    134.1083    133.232      1.007      0.314    -127.357     395.573
+C(campaign_type)[T.Video]     -48.6711    158.224     -0.308      0.758    -359.182     261.840
+C(audience)[T.Lookalike]     -425.9875    153.471     -2.776      0.006    -727.170    -124.805
+C(audience)[T.Prospecting]   -460.8256    141.478     -3.257      0.001    -738.473    -183.178
+C(audience)[T.Retargeting]   -445.1736    145.848     -3.052      0.002    -731.396    -158.951
+spend                           0.2404      0.175      1.373      0.170      -0.103       0.584
+impressions                    -0.0021      0.003     -0.596      0.551      -0.009       0.005
+clicks                          0.0970      0.269      0.360      0.719      -0.432       0.626
+conversions                   118.4203      1.938     61.092      0.000     114.616     122.224
+==============================================================================
+Omnibus:                      155.504   Durbin-Watson:                   1.972
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             2061.679
+Skew:                           0.243   Prob(JB):                         0.00
+Kurtosis:                      10.163   Cond. No.                     3.77e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.77e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.

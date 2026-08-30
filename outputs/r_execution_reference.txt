@@ -1,0 +1,45 @@
+REPRODUCIBLE ANALYSIS OUTPUT REFERENCE
+Dataset: data/advertising_campaigns.csv
+Rows: 1200
+Train rows: 960
+Test rows: 240
+
+The R scripts generate these same output files and statistics when run from the repository root.
+
+OVERALL BUSINESS METRICS
+Total spend: 1029708.66
+Total revenue: 8597014.43
+Total conversions: 73811
+Overall CTR: 0.0215
+Overall ROAS: 8.3490
+
+MODEL PERFORMANCE
+RMSE: 1731.537384
+MAE: 893.723968
+Test_R2: 0.951857
+Train_R2: 0.963060
+Adjusted_R2: 0.962552
+F_statistic: 1897.166086
+F_pvalue: 0.000000
+AIC: 16639.525885
+BIC: 16707.662951
+
+COEFFICIENTS (sorted by p-value)
+                       term    estimate  std_error   t_value  p_value      ci_low     ci_high
+                conversions  118.420345   1.938400 61.091797 0.000000  114.616283  122.224406
+ C(audience)[T.Prospecting] -460.825641 141.478188 -3.257220 0.001165 -738.473024 -183.178258
+ C(audience)[T.Retargeting] -445.173556 145.847507 -3.052322 0.002334 -731.395617 -158.951495
+   C(audience)[T.Lookalike] -425.987507 153.470818 -2.775691 0.005617 -727.170124 -124.804889
+                      spend    0.240402   0.175097  1.372971 0.170087   -0.103220    0.584025
+C(platform)[T.LinkedIn Ads]  193.553925 172.990752  1.118869 0.263480 -145.936070  533.043921
+ C(campaign_type)[T.Social]  134.108329 133.232199  1.006576 0.314396 -127.356508  395.573166
+                impressions   -0.002070   0.003472 -0.596234 0.551162   -0.008883    0.004743
+ C(platform)[T.YouTube Ads]  118.295612 210.950553  0.560774 0.575084 -295.689538  532.280762
+                     clicks    0.097001   0.269369  0.360103 0.718850   -0.431630    0.625632
+  C(campaign_type)[T.Video]  -48.671055 158.224038 -0.307608 0.758448 -359.181746  261.839636
+                  Intercept  -24.339967 180.471507 -0.134869 0.892744 -378.510757  329.830823
+ C(campaign_type)[T.Search]    4.833505 140.094571  0.034502 0.972484 -270.098564  279.765573
+    C(platform)[T.Meta Ads]   -1.607153 127.598879 -0.012595 0.989953 -252.016740  248.802434
+
+DIAGNOSTICS
+Breusch-Pagan test and Shapiro-Wilk test are produced by R/05_statistical_tests.R.
