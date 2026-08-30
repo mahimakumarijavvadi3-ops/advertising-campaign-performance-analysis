@@ -1,0 +1,1201 @@
+date,platform,campaign_type,audience,region,spend,impressions,clicks,conversions,revenue
+2025-01-01,LinkedIn Ads,Social,Retargeting,East,556.96,9819,182,15,1455.65
+2025-01-01,Meta Ads,Social,Lookalike,South,1159.01,46005,1206,62,8485.7
+2025-01-01,YouTube Ads,Display,Lookalike,South,145.33,18063,245,12,1327.53
+2025-01-01,Meta Ads,Display,Existing Customers,North,1604.85,104456,2343,122,13667.95
+2025-01-02,Google Ads,Search,Lookalike,North,1818.52,40901,1274,107,15027.35
+2025-01-02,YouTube Ads,Search,Prospecting,East,713.71,68140,1098,36,4515.51
+2025-01-02,LinkedIn Ads,Social,Retargeting,West,1006.55,30674,491,31,3052.04
+2025-01-03,LinkedIn Ads,Social,Prospecting,North,1006.38,31119,495,24,2231.41
+2025-01-03,Google Ads,Search,Prospecting,South,460.94,9813,370,42,5705.58
+2025-01-03,Meta Ads,Social,Existing Customers,West,998.96,66492,1427,78,9713.06
+2025-01-04,Meta Ads,Display,Lookalike,West,413.84,37105,577,19,1655.22
+2025-01-04,YouTube Ads,Display,Existing Customers,North,471.25,59258,684,18,1611.65
+2025-01-04,Meta Ads,Social,Retargeting,East,1456.21,100083,1791,176,16704.39
+2025-01-04,LinkedIn Ads,Social,Retargeting,North,1318.97,28916,444,41,3800.26
+2025-01-05,Meta Ads,Search,Retargeting,North,442.28,35311,837,83,6488.16
+2025-01-05,Google Ads,Social,Prospecting,North,434.53,9971,363,15,1428.13
+2025-01-05,Meta Ads,Social,Prospecting,East,460.1,21463,572,20,1969.13
+2025-01-06,Google Ads,Social,Retargeting,North,1126.98,31213,1251,152,16214.1
+2025-01-06,LinkedIn Ads,Display,Prospecting,South,365.44,7741,169,12,1745.67
+2025-01-06,Meta Ads,Search,Existing Customers,North,882.66,57117,1402,71,8449.89
+2025-01-07,LinkedIn Ads,Search,Prospecting,South,1137.43,25251,472,20,2239.67
+2025-01-07,Meta Ads,Search,Prospecting,East,660.98,26404,708,60,7450.0
+2025-01-07,YouTube Ads,Video,Lookalike,South,1349.68,95143,1684,50,5536.41
+2025-01-07,YouTube Ads,Social,Prospecting,South,574.37,70278,1128,38,4643.7
+2025-01-08,LinkedIn Ads,Search,Existing Customers,East,609.16,10297,233,18,2333.79
+2025-01-08,Google Ads,Video,Lookalike,East,370.88,12857,295,15,1758.1
+2025-01-08,Meta Ads,Social,Prospecting,North,1355.93,84773,1770,88,14502.08
+2025-01-09,Google Ads,Social,Lookalike,West,425.32,10475,347,23,3022.21
+2025-01-09,Google Ads,Video,Retargeting,West,878.69,16903,728,52,4967.51
+2025-01-09,Meta Ads,Search,Lookalike,East,668.29,24288,709,37,4501.57
+2025-01-10,LinkedIn Ads,Search,Lookalike,East,353.11,8872,123,4,402.99
+2025-01-10,YouTube Ads,Social,Lookalike,East,471.14,49747,962,23,2829.75
+2025-01-10,Google Ads,Search,Retargeting,South,1719.77,46461,1317,230,20756.72
+2025-01-11,Meta Ads,Display,Prospecting,South,798.04,53643,961,45,4277.7
+2025-01-11,Meta Ads,Search,Lookalike,South,363.27,22758,480,27,3272.14
+2025-01-11,Google Ads,Search,Existing Customers,North,853.67,18728,619,78,11200.39
+2025-01-11,Google Ads,Search,Retargeting,West,636.58,20311,537,71,8807.38
+2025-01-12,Meta Ads,Social,Lookalike,South,6609.15,359481,8890,625,81483.82
+2025-01-12,Google Ads,Search,Retargeting,South,842.53,18178,719,49,5964.71
+2025-01-12,Meta Ads,Search,Lookalike,West,546.58,39404,1048,69,8149.24
+2025-01-13,Meta Ads,Video,Existing Customers,East,1761.81,121826,2479,76,8695.02
+2025-01-13,LinkedIn Ads,Social,Prospecting,East,211.54,5483,98,2,259.27
+2025-01-13,LinkedIn Ads,Social,Prospecting,North,744.26,20948,375,26,3469.64
+2025-01-14,Google Ads,Search,Retargeting,South,2559.22,37300,1769,281,31995.76
+2025-01-14,LinkedIn Ads,Social,Retargeting,East,649.08,23040,249,6,677.37
+2025-01-14,LinkedIn Ads,Search,Retargeting,South,226.88,6270,95,8,1149.16
+2025-01-14,Meta Ads,Social,Prospecting,North,541.17,37372,823,35,4012.13
+2025-01-15,Google Ads,Search,Retargeting,West,1801.76,51897,1494,211,24552.45
+2025-01-15,Meta Ads,Video,Retargeting,South,893.84,50427,1059,33,4082.63
+2025-01-15,Google Ads,Video,Retargeting,East,405.79,11779,403,42,4756.06
+2025-01-16,Google Ads,Search,Lookalike,South,448.39,12543,390,42,4209.82
+2025-01-16,Google Ads,Search,Lookalike,East,486.52,10393,368,28,3410.49
+2025-01-16,LinkedIn Ads,Search,Retargeting,West,885.24,24957,503,49,5600.82
+2025-01-17,Meta Ads,Social,Lookalike,West,1670.55,111079,2342,132,19557.19
+2025-01-17,LinkedIn Ads,Search,Retargeting,North,1387.36,37312,619,40,5167.68
+2025-01-17,LinkedIn Ads,Video,Retargeting,East,941.51,22953,401,11,1147.09
+2025-01-18,Meta Ads,Display,Retargeting,West,294.57,20163,443,27,3459.32
+2025-01-18,Meta Ads,Display,Prospecting,East,295.28,24933,401,11,1325.96
+2025-01-18,Google Ads,Social,Prospecting,North,989.99,16644,633,44,6097.07
+2025-01-18,Google Ads,Video,Retargeting,North,291.93,8274,267,25,2639.0
+2025-01-19,Meta Ads,Search,Existing Customers,North,604.54,29013,801,89,11380.24
+2025-01-19,Meta Ads,Social,Lookalike,North,853.02,35186,861,34,3849.35
+2025-01-19,Meta Ads,Social,Prospecting,West,334.17,18669,507,28,3249.47
+2025-01-20,LinkedIn Ads,Video,Retargeting,West,359.71,7464,112,5,495.33
+2025-01-20,Meta Ads,Social,Prospecting,East,658.46,44418,914,49,6142.95
+2025-01-20,Meta Ads,Display,Lookalike,East,971.12,57642,1014,49,6003.64
+2025-01-21,Meta Ads,Search,Lookalike,West,1395.58,88712,1719,144,19891.3
+2025-01-21,Google Ads,Video,Retargeting,South,1038.64,19613,860,78,8955.92
+2025-01-21,Google Ads,Social,Retargeting,South,734.33,14100,645,45,4841.41
+2025-01-21,Meta Ads,Social,Prospecting,East,430.98,36943,661,36,4651.46
+2025-01-22,Google Ads,Video,Retargeting,South,348.97,9308,300,18,1812.68
+2025-01-22,Meta Ads,Social,Existing Customers,North,502.21,27834,604,33,4794.64
+2025-01-22,YouTube Ads,Social,Lookalike,East,913.73,94735,1579,119,16004.45
+2025-01-23,Google Ads,Social,Retargeting,West,871.21,31258,797,83,11423.37
+2025-01-23,Google Ads,Search,Prospecting,North,178.78,6177,162,14,1704.91
+2025-01-23,Google Ads,Social,Prospecting,North,420.06,8162,312,19,2018.62
+2025-01-24,Google Ads,Search,Prospecting,South,1531.51,44433,1095,115,13451.02
+2025-01-24,Meta Ads,Search,Prospecting,West,736.99,56108,1139,75,9138.09
+2025-01-24,Meta Ads,Video,Prospecting,East,278.67,19028,431,15,1573.76
+2025-01-24,LinkedIn Ads,Social,Existing Customers,East,3236.88,65418,1269,79,11859.15
+2025-01-25,Meta Ads,Social,Retargeting,East,686.95,34832,747,47,5895.75
+2025-01-25,Meta Ads,Social,Prospecting,South,898.65,50441,1039,96,9498.24
+2025-01-25,LinkedIn Ads,Social,Prospecting,East,907.57,22047,462,24,3573.4
+2025-01-26,Google Ads,Social,Prospecting,North,551.23,13571,500,44,5137.13
+2025-01-26,Google Ads,Video,Lookalike,North,436.22,14124,440,30,2859.18
+2025-01-26,Google Ads,Video,Prospecting,West,2779.9,71598,2523,139,13907.7
+2025-01-27,LinkedIn Ads,Social,Lookalike,East,1343.68,22452,433,19,2693.82
+2025-01-27,Meta Ads,Social,Lookalike,North,1194.33,69494,2083,81,11975.83
+2025-01-27,Google Ads,Social,Prospecting,South,1018.07,28446,1147,83,11053.17
+2025-01-28,Meta Ads,Social,Retargeting,North,364.64,21113,578,42,5827.4
+2025-01-28,Google Ads,Social,Existing Customers,East,1605.96,42542,1334,170,25134.67
+2025-01-28,Meta Ads,Display,Retargeting,West,404.66,25426,509,21,2625.51
+2025-01-28,Meta Ads,Social,Prospecting,South,841.53,51690,1090,60,7255.37
+2025-01-29,Meta Ads,Social,Existing Customers,South,241.16,12967,278,14,1885.73
+2025-01-29,Google Ads,Social,Existing Customers,North,185.77,7331,214,34,4709.28
+2025-01-29,Meta Ads,Social,Retargeting,South,860.89,35794,989,58,5895.77
+2025-01-30,Meta Ads,Search,Retargeting,South,413.71,23419,604,69,8844.09
+2025-01-30,Google Ads,Search,Prospecting,North,192.12,4498,149,18,2542.59
+2025-01-30,Google Ads,Display,Lookalike,South,994.74,27211,1069,79,8791.54
+2025-01-31,YouTube Ads,Social,Retargeting,West,2777.02,306390,4784,194,21216.14
+2025-01-31,YouTube Ads,Search,Prospecting,West,1727.26,167964,2868,71,8774.03
+2025-01-31,Meta Ads,Social,Lookalike,South,592.19,39602,684,48,4958.7
+2025-01-31,Google Ads,Display,Existing Customers,West,704.04,23142,789,52,5127.25
+2025-02-01,YouTube Ads,Search,Lookalike,North,1246.49,144098,2139,102,13837.21
+2025-02-01,LinkedIn Ads,Display,Prospecting,West,1451.66,35753,720,26,2778.95
+2025-02-01,LinkedIn Ads,Video,Prospecting,South,559.91,13375,215,6,691.99
+2025-02-02,Meta Ads,Social,Existing Customers,East,715.72,62589,878,69,7751.4
+2025-02-02,Google Ads,Display,Existing Customers,North,851.06,20897,602,25,3725.5
+2025-02-02,Google Ads,Search,Retargeting,West,1003.35,27443,950,94,12253.57
+2025-02-03,YouTube Ads,Video,Retargeting,South,642.0,62873,954,42,4648.0
+2025-02-03,Meta Ads,Social,Retargeting,West,647.44,24271,723,53,4969.38
+2025-02-03,Google Ads,Video,Retargeting,North,1716.38,49935,1941,98,10658.02
+2025-02-04,Google Ads,Social,Prospecting,East,1536.51,34096,1211,102,12776.8
+2025-02-04,Meta Ads,Search,Prospecting,North,954.7,51984,1137,56,6630.14
+2025-02-04,Google Ads,Search,Prospecting,West,2139.87,45414,1939,213,24913.28
+2025-02-04,YouTube Ads,Display,Lookalike,South,544.51,84443,1139,45,5346.48
+2025-02-05,LinkedIn Ads,Social,Prospecting,East,2010.25,41023,720,26,3345.12
+2025-02-05,LinkedIn Ads,Search,Prospecting,West,995.97,33997,503,29,3313.15
+2025-02-05,Meta Ads,Display,Retargeting,East,5867.87,295265,8386,591,72752.24
+2025-02-06,Meta Ads,Video,Prospecting,North,322.46,19102,451,28,2722.59
+2025-02-06,Meta Ads,Social,Prospecting,North,447.2,28602,554,20,3219.39
+2025-02-06,Meta Ads,Social,Retargeting,North,919.01,65471,1411,130,14285.77
+2025-02-07,Google Ads,Search,Prospecting,West,906.22,22913,879,76,9018.52
+2025-02-07,Meta Ads,Display,Retargeting,West,2486.6,161632,3399,224,28043.99
+2025-02-07,Google Ads,Social,Existing Customers,South,453.34,10569,336,36,4183.71
+2025-02-07,Meta Ads,Video,Prospecting,West,1260.52,62079,1214,37,4260.21
+2025-02-08,Google Ads,Social,Existing Customers,North,1490.22,44326,1649,273,33883.65
+2025-02-08,Google Ads,Social,Existing Customers,East,1106.66,27883,915,162,17241.84
+2025-02-08,Google Ads,Search,Lookalike,South,374.82,12029,388,37,4547.1
+2025-02-09,Meta Ads,Search,Retargeting,North,1747.82,119209,2062,232,19792.85
+2025-02-09,Google Ads,Display,Retargeting,South,1556.42,44319,1573,183,26818.42
+2025-02-09,YouTube Ads,Social,Retargeting,South,1033.61,136721,1985,80,10341.88
+2025-02-10,Meta Ads,Social,Lookalike,South,799.44,58760,1220,49,6198.71
+2025-02-10,Google Ads,Video,Prospecting,North,810.82,19683,714,39,3265.88
+2025-02-10,Meta Ads,Video,Existing Customers,South,665.08,34842,877,51,5548.46
+2025-02-10,Google Ads,Video,Retargeting,North,1061.66,21505,854,71,9940.58
+2025-02-11,YouTube Ads,Search,Lookalike,West,714.31,74415,1233,47,8916.95
+2025-02-11,Meta Ads,Social,Prospecting,South,403.24,32895,693,22,3003.1
+2025-02-11,LinkedIn Ads,Video,Prospecting,North,354.07,8060,131,5,668.32
+2025-02-12,Google Ads,Social,Retargeting,East,429.34,12998,377,36,4480.18
+2025-02-12,Meta Ads,Search,Retargeting,West,808.73,47188,933,117,11670.17
+2025-02-12,Meta Ads,Display,Retargeting,South,687.84,48465,1070,78,10367.22
+2025-02-13,YouTube Ads,Social,Prospecting,West,805.17,137784,1794,72,6852.84
+2025-02-13,Meta Ads,Social,Prospecting,East,969.33,60490,1354,73,6804.29
+2025-02-13,Meta Ads,Video,Retargeting,East,465.6,28447,526,23,2117.76
+2025-02-14,Google Ads,Social,Prospecting,South,1814.85,59256,1538,126,16702.94
+2025-02-14,Google Ads,Social,Existing Customers,North,588.2,13017,528,75,9231.29
+2025-02-14,Meta Ads,Social,Prospecting,South,528.14,41734,843,56,6541.66
+2025-02-14,Meta Ads,Social,Prospecting,West,957.79,53057,1004,83,9521.99
+2025-02-15,Google Ads,Search,Prospecting,West,212.16,7584,218,13,1231.58
+2025-02-15,LinkedIn Ads,Display,Retargeting,West,418.73,10091,196,7,720.49
+2025-02-15,YouTube Ads,Display,Retargeting,West,1324.48,108526,2085,69,7164.43
+2025-02-16,Google Ads,Search,Retargeting,South,226.28,8141,265,35,3139.68
+2025-02-16,Meta Ads,Social,Existing Customers,South,1447.37,77448,1639,108,12355.0
+2025-02-16,Google Ads,Video,Prospecting,West,1869.3,34655,1471,79,7547.38
+2025-02-17,Meta Ads,Search,Lookalike,East,550.56,41683,662,55,6896.9
+2025-02-17,Google Ads,Social,Prospecting,South,846.2,13496,673,37,4695.21
+2025-02-17,Meta Ads,Social,Prospecting,South,1448.79,60455,2065,75,6878.59
+2025-02-17,LinkedIn Ads,Display,Retargeting,West,516.81,23058,255,8,877.29
+2025-02-18,LinkedIn Ads,Search,Prospecting,North,1230.45,29627,524,19,2819.77
+2025-02-18,Google Ads,Display,Retargeting,North,452.52,14959,460,33,3212.43
+2025-02-18,YouTube Ads,Social,Lookalike,East,513.19,57265,819,23,2821.63
+2025-02-19,Google Ads,Social,Lookalike,North,416.34,9796,318,17,1987.29
+2025-02-19,Google Ads,Search,Retargeting,North,874.63,14812,600,65,8753.68
+2025-02-19,Meta Ads,Social,Retargeting,West,1485.88,90219,1945,219,26349.73
+2025-02-20,Meta Ads,Social,Prospecting,South,621.05,39844,744,45,4825.65
+2025-02-20,LinkedIn Ads,Search,Prospecting,East,306.36,7679,134,9,1045.82
+2025-02-20,LinkedIn Ads,Search,Prospecting,South,346.31,7900,156,12,1397.58
+2025-02-21,Google Ads,Search,Lookalike,North,904.67,25775,729,68,7707.77
+2025-02-21,YouTube Ads,Social,Existing Customers,North,2321.01,381684,4257,157,15473.37
+2025-02-21,Google Ads,Search,Prospecting,West,904.16,15030,753,77,10577.92
+2025-02-21,Meta Ads,Video,Retargeting,North,544.35,45720,896,58,7783.36
+2025-02-22,Google Ads,Social,Lookalike,East,1151.82,33767,1153,94,9043.23
+2025-02-22,YouTube Ads,Display,Lookalike,South,599.09,66817,933,26,2849.26
+2025-02-22,Google Ads,Video,Retargeting,South,547.41,10691,413,29,3217.51
+2025-02-23,Google Ads,Search,Retargeting,West,375.43,7933,382,58,5462.59
+2025-02-23,Meta Ads,Display,Lookalike,East,1748.6,89350,2182,86,7000.2
+2025-02-23,YouTube Ads,Video,Existing Customers,East,134.37,22080,252,7,778.15
+2025-02-24,YouTube Ads,Social,Prospecting,South,1175.78,172938,2022,68,7383.76
+2025-02-24,LinkedIn Ads,Social,Existing Customers,South,517.83,10267,172,14,1346.55
+2025-02-24,YouTube Ads,Social,Prospecting,East,536.12,56811,812,19,2245.53
+2025-02-24,YouTube Ads,Search,Lookalike,North,2102.93,290123,3192,91,12369.76
+2025-02-25,Meta Ads,Social,Prospecting,North,440.05,17650,450,16,2082.53
+2025-02-25,Google Ads,Video,Prospecting,East,449.9,15217,438,25,2817.99
+2025-02-25,LinkedIn Ads,Video,Prospecting,East,643.12,13333,314,10,818.73
+2025-02-26,Meta Ads,Search,Retargeting,North,916.06,46771,1428,157,20077.57
+2025-02-26,Meta Ads,Display,Prospecting,West,525.25,36124,760,28,3293.78
+2025-02-26,Google Ads,Social,Prospecting,East,251.66,8422,319,23,2820.68
+2025-02-27,LinkedIn Ads,Video,Retargeting,North,398.77,11928,172,3,449.55
+2025-02-27,Google Ads,Search,Retargeting,West,1609.93,38996,1527,196,19630.06
+2025-02-27,YouTube Ads,Video,Lookalike,West,734.86,81526,1118,38,2403.63
+2025-02-27,Google Ads,Display,Existing Customers,South,938.5,26790,771,54,5600.93
+2025-02-28,Google Ads,Search,Lookalike,South,590.61,17006,565,41,5073.7
+2025-02-28,LinkedIn Ads,Search,Prospecting,South,455.96,10452,173,7,808.39
+2025-02-28,Google Ads,Display,Prospecting,East,2082.87,48864,1613,99,9218.74
+2025-03-01,Google Ads,Search,Existing Customers,North,619.4,14666,609,97,9370.27
+2025-03-01,Meta Ads,Social,Prospecting,South,524.73,41309,789,33,3584.36
+2025-03-01,YouTube Ads,Video,Retargeting,North,1427.35,171378,3513,121,11201.01
+2025-03-02,Google Ads,Social,Existing Customers,North,437.71,16429,453,56,7521.98
+2025-03-02,Google Ads,Social,Existing Customers,South,475.57,9955,466,45,5229.08
+2025-03-02,LinkedIn Ads,Social,Retargeting,East,704.68,19346,290,14,1451.97
+2025-03-03,YouTube Ads,Search,Lookalike,West,700.12,93617,1404,72,7297.27
+2025-03-03,Meta Ads,Video,Retargeting,North,828.67,62010,1249,72,8621.01
+2025-03-03,Google Ads,Social,Lookalike,North,2726.2,87659,2884,189,21879.96
+2025-03-03,Google Ads,Search,Prospecting,South,871.0,18229,737,53,6287.67
+2025-03-04,Google Ads,Search,Prospecting,East,149.21,2639,121,6,709.45
+2025-03-04,Google Ads,Video,Retargeting,West,865.39,16281,706,65,7390.53
+2025-03-04,Meta Ads,Search,Prospecting,East,717.45,48597,994,58,5591.41
+2025-03-05,Google Ads,Video,Lookalike,East,720.05,22139,801,54,5500.07
+2025-03-05,Meta Ads,Display,Prospecting,North,821.35,65930,1260,35,3776.35
+2025-03-05,Meta Ads,Display,Existing Customers,North,687.07,55369,1019,48,7888.67
+2025-03-06,Meta Ads,Video,Lookalike,North,676.47,55983,1002,47,4263.88
+2025-03-06,Google Ads,Display,Retargeting,East,1042.69,27698,896,76,8166.84
+2025-03-06,LinkedIn Ads,Video,Lookalike,South,492.12,8658,163,9,1050.92
+2025-03-06,LinkedIn Ads,Search,Prospecting,North,378.07,10816,138,8,876.32
+2025-03-07,LinkedIn Ads,Display,Retargeting,East,4996.73,136579,2438,217,29149.93
+2025-03-07,Google Ads,Social,Prospecting,West,439.56,7460,343,21,2298.39
+2025-03-07,Google Ads,Social,Existing Customers,South,747.08,13681,586,74,8853.4
+2025-03-08,YouTube Ads,Video,Lookalike,West,264.78,38443,519,12,1555.96
+2025-03-08,Meta Ads,Video,Existing Customers,East,755.05,53481,915,30,4782.01
+2025-03-08,Google Ads,Display,Existing Customers,East,381.64,8943,340,28,4243.73
+2025-03-09,Meta Ads,Social,Existing Customers,West,525.04,63050,914,53,6441.8
+2025-03-09,Meta Ads,Social,Prospecting,North,1380.74,66366,1783,113,12894.29
+2025-03-09,YouTube Ads,Social,Existing Customers,West,951.35,109739,1584,55,6880.95
+2025-03-10,Google Ads,Social,Retargeting,West,1012.87,18761,913,75,8823.45
+2025-03-10,YouTube Ads,Social,Retargeting,West,221.36,34933,384,27,2693.19
+2025-03-10,Google Ads,Search,Retargeting,East,2310.14,54590,2254,265,34942.55
+2025-03-10,Meta Ads,Search,Prospecting,West,322.58,18791,406,18,2136.94
+2025-03-11,Meta Ads,Display,Prospecting,West,1890.59,127561,2644,134,15301.81
+2025-03-11,Google Ads,Social,Prospecting,West,1359.79,42082,1151,75,6908.95
+2025-03-11,Google Ads,Video,Prospecting,West,1018.77,21483,837,57,6618.91
+2025-03-12,Meta Ads,Social,Retargeting,West,401.55,27005,671,47,3803.34
+2025-03-12,YouTube Ads,Search,Existing Customers,South,772.49,74308,1537,60,6773.56
+2025-03-12,Meta Ads,Search,Retargeting,East,515.42,38670,1020,99,10381.56
+2025-03-13,YouTube Ads,Search,Retargeting,South,713.34,83388,1124,65,7810.78
+2025-03-13,LinkedIn Ads,Video,Retargeting,West,595.06,20034,301,12,1786.05
+2025-03-13,Meta Ads,Search,Retargeting,West,186.04,14712,253,28,3508.24
+2025-03-13,LinkedIn Ads,Social,Prospecting,West,1451.34,24290,570,26,3667.85
+2025-03-14,Google Ads,Video,Lookalike,East,664.05,17222,524,31,3925.03
+2025-03-14,Google Ads,Video,Prospecting,South,510.79,11798,539,32,4328.03
+2025-03-14,LinkedIn Ads,Search,Lookalike,North,486.32,10362,205,14,2078.0
+2025-03-15,LinkedIn Ads,Search,Lookalike,East,883.67,14763,282,14,1425.58
+2025-03-15,Google Ads,Search,Retargeting,East,391.56,7820,259,37,3724.13
+2025-03-15,Meta Ads,Search,Existing Customers,East,161.61,7749,192,20,2744.03
+2025-03-16,Meta Ads,Search,Prospecting,East,912.07,54698,1200,75,8620.03
+2025-03-16,YouTube Ads,Social,Existing Customers,West,980.93,141498,1986,97,12462.92
+2025-03-16,Meta Ads,Video,Lookalike,North,614.81,30518,761,23,2542.05
+2025-03-16,Meta Ads,Social,Lookalike,South,331.94,22064,473,41,4274.96
+2025-03-17,Meta Ads,Social,Lookalike,East,741.66,49435,942,53,7641.21
+2025-03-17,Meta Ads,Search,Lookalike,West,270.19,16933,415,26,2475.26
+2025-03-17,Meta Ads,Display,Existing Customers,West,359.02,23588,513,37,5089.11
+2025-03-18,YouTube Ads,Social,Retargeting,West,429.72,44078,722,39,4853.01
+2025-03-18,Meta Ads,Video,Lookalike,West,1211.53,79806,1618,65,5627.55
+2025-03-18,Google Ads,Video,Lookalike,West,553.01,15770,444,40,4001.84
+2025-03-19,Google Ads,Social,Retargeting,East,523.2,10433,499,76,7833.44
+2025-03-19,LinkedIn Ads,Search,Existing Customers,North,2493.97,54168,1288,84,11354.74
+2025-03-19,LinkedIn Ads,Search,Prospecting,East,880.23,13410,283,9,975.54
+2025-03-20,Google Ads,Social,Retargeting,East,872.56,15594,509,34,3857.62
+2025-03-20,Google Ads,Video,Prospecting,North,550.47,13451,446,44,3905.54
+2025-03-20,Meta Ads,Social,Prospecting,West,475.06,28885,815,27,4235.39
+2025-03-20,Google Ads,Display,Lookalike,East,169.0,5055,166,20,2325.63
+2025-03-21,LinkedIn Ads,Social,Prospecting,West,1313.91,31439,505,12,1487.78
+2025-03-21,Google Ads,Search,Prospecting,North,936.81,13401,657,53,5579.24
+2025-03-21,Google Ads,Social,Prospecting,West,623.05,18962,658,52,5369.14
+2025-03-22,YouTube Ads,Display,Retargeting,South,640.27,54601,1126,35,5229.99
+2025-03-22,Google Ads,Display,Lookalike,East,1129.55,34985,952,99,7969.4
+2025-03-22,Google Ads,Social,Existing Customers,East,254.81,5023,193,19,2462.72
+2025-03-23,Google Ads,Search,Prospecting,East,477.07,8620,438,42,3914.1
+2025-03-23,Google Ads,Display,Retargeting,West,334.45,10629,374,33,3554.43
+2025-03-23,Google Ads,Search,Retargeting,North,2214.01,52224,1743,309,31985.92
+2025-03-23,Google Ads,Video,Retargeting,East,1236.77,31659,898,117,11378.53
+2025-03-24,Google Ads,Search,Retargeting,West,167.22,3457,147,22,2544.03
+2025-03-24,Google Ads,Search,Prospecting,North,261.68,6991,213,34,2338.37
+2025-03-24,Meta Ads,Social,Retargeting,South,642.3,44480,962,77,8417.73
+2025-03-25,Meta Ads,Social,Retargeting,South,514.91,46491,819,71,8049.61
+2025-03-25,Meta Ads,Social,Retargeting,East,295.96,11987,349,36,3259.19
+2025-03-25,Google Ads,Social,Retargeting,West,2477.92,46998,2025,199,28305.35
+2025-03-26,Meta Ads,Video,Lookalike,West,857.68,50331,1101,54,5632.19
+2025-03-26,YouTube Ads,Social,Lookalike,West,953.09,106022,1292,50,5536.26
+2025-03-26,YouTube Ads,Social,Prospecting,South,446.42,46064,911,37,3860.58
+2025-03-27,Google Ads,Social,Lookalike,East,1119.41,32439,1063,103,11693.78
+2025-03-27,Google Ads,Search,Existing Customers,North,546.64,16140,463,51,7631.15
+2025-03-27,Google Ads,Social,Prospecting,South,582.25,21737,554,38,6061.54
+2025-03-27,Google Ads,Search,Retargeting,North,1041.31,25643,799,99,12713.73
+2025-03-28,Meta Ads,Social,Prospecting,North,242.8,20494,347,16,2153.34
+2025-03-28,Meta Ads,Search,Lookalike,West,1976.63,163626,3218,211,30783.99
+2025-03-28,Google Ads,Video,Prospecting,West,788.11,16942,678,22,2628.55
+2025-03-29,Meta Ads,Social,Lookalike,East,1609.52,105775,2175,131,18767.65
+2025-03-29,Meta Ads,Video,Prospecting,North,347.95,17736,416,27,3490.11
+2025-03-29,Google Ads,Social,Retargeting,North,384.15,10219,314,17,1999.06
+2025-03-30,LinkedIn Ads,Search,Existing Customers,North,328.93,6973,127,8,1048.09
+2025-03-30,Google Ads,Display,Prospecting,East,823.67,13749,680,34,2795.29
+2025-03-30,YouTube Ads,Social,Existing Customers,North,730.68,92135,1298,81,10520.18
+2025-03-30,Google Ads,Display,Existing Customers,South,517.61,13464,505,26,2448.93
+2025-03-31,LinkedIn Ads,Social,Existing Customers,West,362.11,10604,144,7,648.23
+2025-03-31,YouTube Ads,Social,Prospecting,West,307.29,28346,559,18,2132.49
+2025-03-31,YouTube Ads,Video,Lookalike,West,678.28,64800,892,27,2563.56
+2025-04-01,LinkedIn Ads,Social,Prospecting,South,517.21,8001,174,7,804.1
+2025-04-01,LinkedIn Ads,Social,Prospecting,East,448.29,9599,169,10,1174.92
+2025-04-01,Meta Ads,Display,Existing Customers,North,1913.5,101831,2501,123,15714.29
+2025-04-02,LinkedIn Ads,Display,Lookalike,West,663.53,13786,280,10,987.26
+2025-04-02,Google Ads,Video,Retargeting,North,1598.16,52693,1700,99,12986.45
+2025-04-02,Meta Ads,Social,Prospecting,East,494.95,26589,712,22,2494.66
+2025-04-02,Meta Ads,Social,Lookalike,East,820.72,58466,1122,56,6884.6
+2025-04-03,YouTube Ads,Display,Lookalike,West,675.21,65026,1122,35,3271.24
+2025-04-03,Meta Ads,Social,Retargeting,South,232.21,14580,299,15,1676.85
+2025-04-03,Meta Ads,Display,Existing Customers,North,1771.36,90615,2123,122,17754.83
+2025-04-04,Meta Ads,Social,Prospecting,West,641.13,49149,995,39,5166.06
+2025-04-04,Google Ads,Search,Prospecting,East,1137.12,31232,1103,98,9863.58
+2025-04-04,Google Ads,Display,Retargeting,South,429.35,10262,296,18,1893.24
+2025-04-05,Meta Ads,Search,Existing Customers,South,628.87,33562,772,50,5249.0
+2025-04-05,Meta Ads,Search,Prospecting,South,398.47,26561,589,51,5262.41
+2025-04-05,Google Ads,Social,Prospecting,South,1563.18,43549,1383,130,11676.18
+2025-04-06,Meta Ads,Display,Prospecting,South,857.05,55547,1210,70,7875.9
+2025-04-06,Meta Ads,Video,Existing Customers,South,888.62,54488,1228,86,11739.71
+2025-04-06,Google Ads,Search,Prospecting,South,1692.4,43544,1364,104,10490.38
+2025-04-06,Meta Ads,Search,Retargeting,North,1484.31,63919,1374,177,20066.33
+2025-04-07,Meta Ads,Video,Existing Customers,West,1151.19,84488,1551,48,5755.85
+2025-04-07,Google Ads,Search,Prospecting,North,277.82,4065,217,18,2411.86
+2025-04-07,YouTube Ads,Search,Retargeting,North,445.36,55426,1006,52,5407.55
+2025-04-08,YouTube Ads,Search,Retargeting,North,364.51,43095,679,23,2406.86
+2025-04-08,Meta Ads,Social,Lookalike,West,1123.25,47189,1282,72,7183.56
+2025-04-08,Google Ads,Video,Prospecting,South,782.12,26030,638,52,4915.29
+2025-04-09,Meta Ads,Display,Retargeting,South,283.51,57265,795,69,8592.25
+2025-04-09,LinkedIn Ads,Display,Prospecting,South,619.18,13849,232,10,1125.68
+2025-04-09,Meta Ads,Search,Lookalike,North,265.05,15787,271,16,1855.79
+2025-04-09,LinkedIn Ads,Social,Lookalike,South,676.23,22493,388,23,3172.7
+2025-04-10,Meta Ads,Social,Prospecting,North,238.67,11389,260,16,2223.64
+2025-04-10,Meta Ads,Search,Prospecting,West,987.15,82267,2136,156,13317.37
+2025-04-10,Google Ads,Search,Existing Customers,North,894.94,23496,670,79,10806.72
+2025-04-11,LinkedIn Ads,Social,Prospecting,South,2419.33,52165,1009,38,4524.34
+2025-04-11,Google Ads,Search,Prospecting,West,1214.63,43829,1538,81,8642.0
+2025-04-11,Meta Ads,Social,Retargeting,West,531.76,29376,688,50,6044.92
+2025-04-12,YouTube Ads,Display,Prospecting,East,1191.33,125107,1709,33,2769.53
+2025-04-12,Google Ads,Search,Prospecting,North,282.2,5168,232,26,3674.52
+2025-04-12,Meta Ads,Social,Retargeting,South,374.46,21951,474,59,7331.87
+2025-04-13,Google Ads,Display,Prospecting,North,869.24,16754,807,42,4175.91
+2025-04-13,LinkedIn Ads,Display,Retargeting,East,172.12,6213,97,6,626.78
+2025-04-13,Google Ads,Display,Lookalike,South,683.29,13298,532,51,4301.51
+2025-04-13,YouTube Ads,Social,Retargeting,East,360.65,31672,470,10,1093.49
+2025-04-14,Google Ads,Display,Prospecting,East,747.65,16457,543,23,2445.15
+2025-04-14,YouTube Ads,Search,Lookalike,West,347.43,48964,823,36,3281.33
+2025-04-14,LinkedIn Ads,Social,Prospecting,South,922.27,28728,490,6,773.88
+2025-04-15,Meta Ads,Search,Lookalike,West,708.85,82717,1127,89,12280.43
+2025-04-15,LinkedIn Ads,Social,Prospecting,South,1739.44,90151,935,58,6641.44
+2025-04-15,LinkedIn Ads,Social,Lookalike,East,703.07,12857,291,20,2189.97
+2025-04-16,YouTube Ads,Search,Prospecting,East,424.73,36756,688,23,2825.08
+2025-04-16,Google Ads,Display,Prospecting,West,596.22,13263,652,58,6649.5
+2025-04-16,Meta Ads,Social,Retargeting,South,292.17,16324,358,34,3247.71
+2025-04-16,Google Ads,Search,Prospecting,West,911.48,25961,720,69,7124.37
+2025-04-17,Meta Ads,Search,Prospecting,South,1027.09,76325,1557,100,10966.42
+2025-04-17,Google Ads,Social,Lookalike,South,3484.42,88817,3115,284,33928.73
+2025-04-17,Meta Ads,Social,Lookalike,South,467.26,48331,887,42,4837.06
+2025-04-18,Meta Ads,Social,Prospecting,East,588.17,29121,862,65,7721.13
+2025-04-18,Meta Ads,Search,Existing Customers,East,481.47,20290,668,60,5673.44
+2025-04-18,Meta Ads,Display,Lookalike,North,803.48,45292,1086,79,10030.94
+2025-04-19,LinkedIn Ads,Video,Existing Customers,West,897.11,19594,352,18,2236.8
+2025-04-19,LinkedIn Ads,Social,Lookalike,West,676.13,19008,271,11,1770.44
+2025-04-19,Meta Ads,Social,Lookalike,North,1418.27,70713,2055,180,19444.06
+2025-04-19,Meta Ads,Video,Retargeting,West,468.74,27887,622,31,3745.49
+2025-04-20,YouTube Ads,Video,Lookalike,East,1328.88,137086,1952,66,10951.11
+2025-04-20,Google Ads,Social,Existing Customers,North,993.37,22978,877,72,9214.07
+2025-04-20,Google Ads,Video,Prospecting,South,694.55,18223,574,43,4892.65
+2025-04-21,Google Ads,Video,Prospecting,West,570.42,14219,511,28,2722.59
+2025-04-21,Meta Ads,Display,Prospecting,South,3389.42,307676,5221,241,34344.62
+2025-04-21,Meta Ads,Social,Existing Customers,West,411.59,19660,526,55,5591.69
+2025-04-22,LinkedIn Ads,Search,Retargeting,South,849.58,21908,387,34,4171.4
+2025-04-22,Meta Ads,Search,Lookalike,North,429.85,20699,561,45,4791.42
+2025-04-22,Google Ads,Social,Lookalike,South,2234.41,57294,1934,106,11828.75
+2025-04-23,YouTube Ads,Social,Existing Customers,East,1245.78,154064,2255,87,8397.13
+2025-04-23,LinkedIn Ads,Social,Prospecting,East,450.41,13682,198,14,1948.47
+2025-04-23,Google Ads,Social,Lookalike,West,976.79,22951,921,56,6159.98
+2025-04-23,Meta Ads,Social,Existing Customers,North,827.64,79612,1496,118,11868.28
+2025-04-24,Google Ads,Display,Prospecting,West,500.33,12755,409,31,4264.0
+2025-04-24,Google Ads,Search,Lookalike,East,1145.83,27423,960,113,11969.59
+2025-04-24,Google Ads,Search,Prospecting,North,901.56,19121,684,97,11739.22
+2025-04-25,YouTube Ads,Display,Retargeting,West,805.36,137035,1512,49,6377.13
+2025-04-25,Meta Ads,Display,Retargeting,South,681.18,33121,699,31,3829.51
+2025-04-25,Meta Ads,Video,Prospecting,East,926.36,53849,1367,67,5055.86
+2025-04-26,LinkedIn Ads,Video,Prospecting,East,812.55,23134,389,9,1147.65
+2025-04-26,Meta Ads,Video,Prospecting,North,727.41,56040,1184,35,3961.61
+2025-04-26,YouTube Ads,Social,Prospecting,North,461.47,67983,1050,23,2508.78
+2025-04-26,LinkedIn Ads,Social,Retargeting,East,2104.91,38985,686,59,6669.16
+2025-04-27,Meta Ads,Search,Prospecting,South,353.65,21559,394,26,2236.5
+2025-04-27,Meta Ads,Social,Prospecting,North,924.31,53348,1166,70,8292.14
+2025-04-27,YouTube Ads,Video,Lookalike,North,568.46,63047,1131,28,2532.35
+2025-04-28,LinkedIn Ads,Social,Lookalike,West,2196.86,45982,685,36,3954.78
+2025-04-28,YouTube Ads,Social,Retargeting,North,389.09,50634,710,85,10014.08
+2025-04-28,Google Ads,Search,Existing Customers,North,434.05,14436,394,55,7979.36
+2025-04-29,YouTube Ads,Search,Prospecting,East,372.67,28757,511,15,1503.7
+2025-04-29,Meta Ads,Search,Lookalike,North,863.79,49914,1080,46,6491.91
+2025-04-29,Google Ads,Search,Prospecting,East,286.75,5827,175,12,1584.52
+2025-04-30,Meta Ads,Video,Lookalike,East,512.88,30624,685,31,3325.39
+2025-04-30,Meta Ads,Social,Existing Customers,East,172.78,14451,256,11,1129.11
+2025-04-30,Google Ads,Display,Lookalike,South,818.4,27014,785,56,4984.63
+2025-04-30,Meta Ads,Display,Retargeting,West,505.7,55807,944,100,11989.16
+2025-05-01,LinkedIn Ads,Search,Retargeting,East,266.09,7809,116,19,1932.85
+2025-05-01,Google Ads,Search,Prospecting,South,1417.61,22960,1026,102,13932.02
+2025-05-01,Meta Ads,Display,Lookalike,North,299.2,19606,378,17,1747.07
+2025-05-02,Meta Ads,Search,Lookalike,South,1175.08,68002,1627,155,15312.13
+2025-05-02,Google Ads,Video,Existing Customers,North,443.81,15045,453,37,4763.44
+2025-05-02,YouTube Ads,Search,Retargeting,North,1982.48,191655,3296,138,14165.86
+2025-05-03,LinkedIn Ads,Display,Prospecting,South,1139.44,26997,404,14,1612.15
+2025-05-03,Google Ads,Display,Retargeting,North,363.53,8369,295,29,3849.69
+2025-05-03,YouTube Ads,Search,Prospecting,North,385.67,42725,647,10,1171.1
+2025-05-03,YouTube Ads,Search,Prospecting,South,1037.61,89097,2032,66,7733.71
+2025-05-04,Google Ads,Video,Prospecting,East,590.24,11401,447,27,3204.7
+2025-05-04,LinkedIn Ads,Search,Lookalike,North,627.04,26641,431,30,2535.73
+2025-05-04,Google Ads,Social,Prospecting,South,1600.44,33061,1309,92,11228.88
+2025-05-05,YouTube Ads,Social,Prospecting,North,430.28,22322,492,11,1296.67
+2025-05-05,Meta Ads,Search,Prospecting,North,742.8,80027,1313,90,11796.49
+2025-05-05,Meta Ads,Display,Existing Customers,North,1301.91,99395,1879,95,12917.81
+2025-05-06,Google Ads,Display,Lookalike,South,1184.42,30740,1031,96,10691.03
+2025-05-06,YouTube Ads,Social,Prospecting,East,631.02,84225,1172,24,3205.99
+2025-05-06,Google Ads,Display,Prospecting,West,580.15,12953,427,26,2853.05
+2025-05-06,Google Ads,Search,Retargeting,East,226.07,6576,182,23,2747.32
+2025-05-07,Google Ads,Search,Prospecting,East,352.31,6635,299,29,3172.58
+2025-05-07,LinkedIn Ads,Social,Retargeting,West,860.93,22679,316,28,3452.73
+2025-05-07,Google Ads,Video,Retargeting,South,639.99,16439,555,42,4545.37
+2025-05-08,YouTube Ads,Search,Existing Customers,West,734.94,42083,762,32,4999.31
+2025-05-08,Meta Ads,Search,Prospecting,West,1375.53,85235,1865,140,21183.75
+2025-05-08,Google Ads,Social,Lookalike,East,323.54,9304,273,14,1830.23
+2025-05-09,Google Ads,Display,Prospecting,West,600.38,24985,686,48,6851.68
+2025-05-09,Google Ads,Search,Existing Customers,North,791.35,22364,751,107,10087.71
+2025-05-09,Meta Ads,Social,Existing Customers,West,442.91,26670,512,36,3476.46
+2025-05-10,LinkedIn Ads,Display,Lookalike,East,1774.97,49043,916,38,4150.05
+2025-05-10,Google Ads,Social,Retargeting,North,1263.53,57066,1552,169,19560.42
+2025-05-10,LinkedIn Ads,Search,Prospecting,North,845.28,16797,350,16,1782.92
+2025-05-10,Google Ads,Search,Lookalike,East,2246.95,43906,1569,119,10167.55
+2025-05-11,LinkedIn Ads,Social,Lookalike,South,264.22,5852,109,5,678.64
+2025-05-11,YouTube Ads,Social,Prospecting,South,696.49,65168,1267,46,7073.68
+2025-05-11,LinkedIn Ads,Video,Retargeting,South,888.2,29935,498,30,4141.73
+2025-05-12,Meta Ads,Social,Retargeting,West,386.3,25847,499,31,4170.72
+2025-05-12,LinkedIn Ads,Display,Lookalike,South,851.11,19559,319,16,1905.12
+2025-05-12,Google Ads,Video,Lookalike,North,340.97,11654,394,27,2695.3
+2025-05-13,Google Ads,Social,Retargeting,South,1096.57,23089,795,140,16282.77
+2025-05-13,Google Ads,Social,Retargeting,North,1392.25,35535,1071,134,20488.68
+2025-05-13,Meta Ads,Video,Prospecting,East,835.56,63329,968,56,6085.2
+2025-05-13,LinkedIn Ads,Search,Prospecting,West,209.93,4917,80,4,427.24
+2025-05-14,Meta Ads,Display,Prospecting,West,373.41,19896,467,32,4317.81
+2025-05-14,YouTube Ads,Display,Lookalike,East,1010.44,104277,1603,40,5445.05
+2025-05-14,Google Ads,Search,Retargeting,West,709.71,12363,537,68,6782.17
+2025-05-15,LinkedIn Ads,Social,Retargeting,South,121.51,2657,68,2,220.59
+2025-05-15,Google Ads,Search,Prospecting,East,1570.14,43264,1736,132,13987.47
+2025-05-15,Google Ads,Search,Prospecting,North,765.02,16663,748,75,8719.08
+2025-05-16,LinkedIn Ads,Social,Retargeting,East,411.04,8469,175,19,2562.46
+2025-05-16,YouTube Ads,Search,Prospecting,East,1336.49,106145,2166,83,8343.78
+2025-05-16,Meta Ads,Display,Prospecting,North,450.64,19350,594,26,3499.96
+2025-05-17,Google Ads,Video,Lookalike,East,447.46,7825,325,13,1518.79
+2025-05-17,Meta Ads,Display,Prospecting,East,883.6,40868,1021,51,8000.44
+2025-05-17,Google Ads,Search,Prospecting,South,2227.77,66023,2227,184,22215.97
+2025-05-17,YouTube Ads,Search,Retargeting,East,2011.05,224128,3337,152,17214.83
+2025-05-18,LinkedIn Ads,Search,Lookalike,South,884.39,24914,422,31,3885.69
+2025-05-18,Google Ads,Search,Prospecting,South,945.42,21640,847,58,6318.02
+2025-05-18,Google Ads,Video,Lookalike,North,1170.93,31454,967,66,5457.22
+2025-05-19,Google Ads,Social,Existing Customers,South,309.22,13721,464,55,6573.83
+2025-05-19,YouTube Ads,Search,Lookalike,West,1063.99,127024,1247,51,5629.72
+2025-05-19,Meta Ads,Display,Retargeting,West,434.39,18367,551,55,4748.61
+2025-05-20,LinkedIn Ads,Social,Lookalike,East,861.0,22833,395,18,2046.34
+2025-05-20,Meta Ads,Search,Retargeting,East,603.79,25795,616,61,4745.31
+2025-05-20,Meta Ads,Search,Retargeting,East,969.58,49788,1424,183,19899.72
+2025-05-20,Google Ads,Social,Retargeting,South,755.85,17405,643,102,12177.24
+2025-05-21,YouTube Ads,Display,Prospecting,South,94.97,9099,177,2,233.49
+2025-05-21,Google Ads,Search,Prospecting,East,786.32,18757,525,39,4196.43
+2025-05-21,Meta Ads,Video,Retargeting,West,1062.61,44315,1501,68,7715.31
+2025-05-22,Meta Ads,Video,Prospecting,South,935.36,47393,1268,52,5246.12
+2025-05-22,Meta Ads,Display,Retargeting,East,654.85,32831,750,42,4838.18
+2025-05-22,YouTube Ads,Search,Retargeting,South,2035.48,164859,3196,148,17174.74
+2025-05-23,Google Ads,Search,Existing Customers,South,857.03,26516,752,93,9923.02
+2025-05-23,Meta Ads,Video,Prospecting,South,930.36,51804,1082,39,4672.92
+2025-05-23,Meta Ads,Social,Retargeting,North,1380.22,44758,1277,108,12928.26
+2025-05-23,Meta Ads,Social,Retargeting,South,886.04,74425,1170,72,8064.59
+2025-05-24,Google Ads,Display,Prospecting,East,390.48,8601,333,21,3330.16
+2025-05-24,Google Ads,Search,Prospecting,East,143.48,3141,121,9,1012.21
+2025-05-24,Google Ads,Display,Prospecting,West,513.35,7256,362,16,1759.58
+2025-05-25,Google Ads,Video,Prospecting,North,1147.91,41752,1099,93,9987.91
+2025-05-25,Meta Ads,Display,Prospecting,West,556.44,27489,808,36,3510.83
+2025-05-25,Meta Ads,Social,Retargeting,West,1178.32,105216,2093,119,15154.19
+2025-05-26,Meta Ads,Video,Retargeting,South,771.05,63746,1294,85,8725.04
+2025-05-26,Meta Ads,Social,Prospecting,South,1616.99,138196,2440,137,14354.44
+2025-05-26,Meta Ads,Display,Prospecting,South,577.78,44782,810,38,4001.84
+2025-05-27,Google Ads,Display,Prospecting,East,948.64,16526,622,29,2820.86
+2025-05-27,Meta Ads,Display,Retargeting,West,972.53,68858,1240,127,10602.02
+2025-05-27,Google Ads,Search,Prospecting,East,1857.75,46738,1869,139,14826.72
+2025-05-27,Google Ads,Search,Retargeting,East,230.85,7276,226,32,4183.04
+2025-05-28,Meta Ads,Search,Prospecting,East,519.63,32740,579,45,5334.55
+2025-05-28,Meta Ads,Social,Prospecting,North,1215.14,70429,1409,80,11447.23
+2025-05-28,Google Ads,Social,Existing Customers,East,1912.02,44505,1655,233,32340.07
+2025-05-29,Meta Ads,Social,Prospecting,North,818.22,58293,1220,73,9083.49
+2025-05-29,Meta Ads,Social,Prospecting,West,578.72,30313,671,34,5062.18
+2025-05-29,LinkedIn Ads,Display,Prospecting,West,1145.05,27398,559,27,3057.79
+2025-05-30,Meta Ads,Video,Existing Customers,East,1231.19,60077,1606,71,8905.26
+2025-05-30,Meta Ads,Search,Retargeting,South,554.08,25714,535,56,6428.44
+2025-05-30,Google Ads,Display,Retargeting,East,867.64,25170,730,52,7424.98
+2025-05-30,LinkedIn Ads,Display,Existing Customers,East,1507.82,38963,711,27,3354.72
+2025-05-31,Meta Ads,Social,Prospecting,East,2391.98,129923,3111,170,17566.27
+2025-05-31,Meta Ads,Search,Existing Customers,East,1134.3,100393,1698,135,18309.3
+2025-05-31,Meta Ads,Display,Prospecting,North,720.37,66751,1251,36,3611.06
+2025-06-01,Meta Ads,Video,Retargeting,North,675.82,43407,839,45,5607.11
+2025-06-01,Meta Ads,Display,Retargeting,South,1005.65,55115,1168,89,10897.97
+2025-06-01,LinkedIn Ads,Video,Prospecting,East,649.3,18094,284,13,1450.68
+2025-06-02,YouTube Ads,Video,Existing Customers,South,791.83,85115,1450,34,4596.78
+2025-06-02,YouTube Ads,Social,Prospecting,East,351.94,63012,708,20,1764.4
+2025-06-02,Meta Ads,Social,Existing Customers,South,1626.47,139776,2314,175,22289.4
+2025-06-03,Meta Ads,Social,Prospecting,West,333.61,24473,507,18,1920.06
+2025-06-03,LinkedIn Ads,Video,Retargeting,South,528.59,14851,259,14,2331.29
+2025-06-03,Google Ads,Search,Existing Customers,West,745.84,17782,479,64,8142.67
+2025-06-03,LinkedIn Ads,Social,Prospecting,South,2553.5,61161,987,30,3127.95
+2025-06-04,Meta Ads,Video,Existing Customers,South,531.84,32930,674,39,3798.83
+2025-06-04,Google Ads,Search,Retargeting,East,454.03,10519,343,37,5124.4
+2025-06-04,Google Ads,Display,Lookalike,South,489.34,10453,376,18,1956.59
+2025-06-05,LinkedIn Ads,Social,Prospecting,North,2057.74,57325,916,46,4634.76
+2025-06-05,Google Ads,Video,Retargeting,South,112.51,2058,94,8,968.43
+2025-06-05,Google Ads,Video,Lookalike,West,364.78,8662,331,14,1773.73
+2025-06-06,Google Ads,Social,Retargeting,North,4131.59,110647,3349,473,59792.48
+2025-06-06,Google Ads,Display,Prospecting,South,1027.78,23764,846,65,7498.11
+2025-06-06,Google Ads,Social,Prospecting,East,341.1,8801,315,15,1767.98
+2025-06-06,LinkedIn Ads,Social,Existing Customers,East,681.18,15670,351,15,1930.66
+2025-06-07,Google Ads,Display,Prospecting,South,731.37,19768,621,32,3873.76
+2025-06-07,LinkedIn Ads,Display,Lookalike,North,1213.25,25259,522,21,2575.61
+2025-06-07,YouTube Ads,Search,Existing Customers,North,2314.05,357232,5399,346,50334.75
+2025-06-08,Meta Ads,Search,Prospecting,South,901.12,40104,1154,76,8817.18
+2025-06-08,Google Ads,Display,Prospecting,West,492.86,8312,367,36,3610.71
+2025-06-08,Meta Ads,Social,Lookalike,North,1167.58,47469,1082,51,5732.54
+2025-06-09,Google Ads,Social,Prospecting,West,444.62,12340,412,33,4242.75
+2025-06-09,Meta Ads,Search,Retargeting,East,357.6,22448,541,57,4722.02
+2025-06-09,YouTube Ads,Social,Lookalike,North,222.99,31610,459,25,2073.66
+2025-06-09,YouTube Ads,Video,Retargeting,South,253.09,20791,422,19,2499.05
+2025-06-10,LinkedIn Ads,Search,Prospecting,North,390.88,8655,158,13,1850.71
+2025-06-10,Google Ads,Social,Lookalike,West,325.55,9897,322,21,1936.75
+2025-06-10,Meta Ads,Video,Retargeting,East,858.07,60534,1226,74,8643.81
+2025-06-11,LinkedIn Ads,Search,Prospecting,South,321.01,12717,184,7,754.66
+2025-06-11,Meta Ads,Display,Retargeting,South,90.71,4482,109,6,661.83
+2025-06-11,Meta Ads,Search,Existing Customers,East,355.15,29398,558,46,5986.42
+2025-06-12,Google Ads,Video,Lookalike,North,515.11,10551,450,30,2751.85
+2025-06-12,Google Ads,Display,Retargeting,South,472.26,18606,516,38,3612.66
+2025-06-12,Meta Ads,Video,Prospecting,North,1879.52,127279,2865,94,10300.28
+2025-06-13,Google Ads,Search,Prospecting,East,469.79,9918,427,24,2697.2
+2025-06-13,Google Ads,Social,Prospecting,East,1241.01,45499,1081,74,7010.23
+2025-06-13,LinkedIn Ads,Display,Prospecting,South,691.42,10315,267,14,1808.99
+2025-06-13,YouTube Ads,Search,Existing Customers,North,681.01,67148,933,33,3830.73
+2025-06-14,Meta Ads,Search,Prospecting,South,406.7,22246,502,36,3866.66
+2025-06-14,LinkedIn Ads,Search,Lookalike,West,673.76,12080,241,11,1320.97
+2025-06-14,YouTube Ads,Video,Prospecting,North,425.71,34046,582,8,901.44
+2025-06-15,Google Ads,Display,Prospecting,North,781.8,16889,621,44,5723.28
+2025-06-15,Meta Ads,Social,Retargeting,North,600.35,31869,839,68,6677.49
+2025-06-15,Meta Ads,Display,Prospecting,West,378.82,18547,448,21,1886.79
+2025-06-16,Google Ads,Social,Lookalike,North,1333.83,20332,977,90,9848.14
+2025-06-16,LinkedIn Ads,Social,Existing Customers,East,923.83,17548,347,19,2382.05
+2025-06-16,Meta Ads,Social,Existing Customers,West,523.14,29266,917,84,8406.7
+2025-06-16,Meta Ads,Social,Prospecting,East,769.43,47268,1223,45,4050.92
+2025-06-17,Google Ads,Search,Lookalike,South,662.88,23806,602,50,5914.07
+2025-06-17,Google Ads,Video,Prospecting,North,398.28,5464,306,22,2229.92
+2025-06-17,YouTube Ads,Display,Existing Customers,North,732.82,93740,1268,41,3934.49
+2025-06-18,Google Ads,Social,Retargeting,North,467.51,7400,339,28,3706.53
+2025-06-18,Google Ads,Social,Prospecting,West,378.75,7592,267,21,2176.18
+2025-06-18,Google Ads,Search,Prospecting,North,243.78,4131,175,17,2306.84
+2025-06-19,Meta Ads,Video,Prospecting,North,554.45,32672,635,25,2887.81
+2025-06-19,Meta Ads,Video,Prospecting,West,1011.93,67376,1659,63,7579.26
+2025-06-19,Meta Ads,Video,Existing Customers,South,445.66,27260,573,36,4323.18
+2025-06-20,Google Ads,Social,Lookalike,South,3603.07,74249,3453,305,20498.16
+2025-06-20,Google Ads,Search,Existing Customers,East,1244.86,37201,1409,166,16948.74
+2025-06-20,LinkedIn Ads,Search,Prospecting,East,1634.18,33470,713,46,5185.91
+2025-06-20,Meta Ads,Search,Retargeting,West,1173.78,88510,1319,79,9603.64
+2025-06-21,Meta Ads,Search,Prospecting,South,2334.24,139034,3012,152,12583.45
+2025-06-21,Meta Ads,Search,Retargeting,East,419.7,17815,422,45,5131.58
+2025-06-21,LinkedIn Ads,Video,Prospecting,West,132.5,2882,54,3,284.4
+2025-06-22,Google Ads,Search,Prospecting,South,523.79,7402,308,40,4768.93
+2025-06-22,Meta Ads,Search,Retargeting,South,1006.19,65930,1358,206,23618.06
+2025-06-22,Meta Ads,Display,Prospecting,West,772.45,48166,1069,52,6675.92
+2025-06-23,Google Ads,Social,Retargeting,North,837.26,20627,893,140,18788.39
+2025-06-23,LinkedIn Ads,Display,Lookalike,North,1651.88,48226,576,19,2341.97
+2025-06-23,Meta Ads,Social,Prospecting,East,897.32,55228,1351,67,8742.63
+2025-06-23,LinkedIn Ads,Video,Existing Customers,West,1176.59,32094,544,21,2465.18
+2025-06-24,YouTube Ads,Social,Retargeting,North,380.07,41954,534,21,3482.14
+2025-06-24,Meta Ads,Social,Lookalike,West,343.46,16942,396,22,2047.35
+2025-06-24,YouTube Ads,Display,Lookalike,West,1998.7,153671,2875,91,9600.54
+2025-06-25,Meta Ads,Social,Lookalike,West,747.45,41470,1100,58,7611.02
+2025-06-25,YouTube Ads,Social,Lookalike,South,466.84,55398,811,26,3342.27
+2025-06-25,Google Ads,Social,Existing Customers,South,467.39,10006,410,44,5881.69
+2025-06-26,Meta Ads,Search,Retargeting,East,459.05,21889,563,61,7756.5
+2025-06-26,Meta Ads,Display,Prospecting,North,441.53,22072,478,27,2092.39
+2025-06-26,Google Ads,Search,Prospecting,West,304.0,8060,249,20,2872.15
+2025-06-26,Meta Ads,Search,Retargeting,East,263.96,13607,267,30,3339.9
+2025-06-27,YouTube Ads,Search,Prospecting,South,616.67,52804,921,26,3573.08
+2025-06-27,Meta Ads,Display,Prospecting,East,476.12,31465,687,30,2351.9
+2025-06-27,Google Ads,Social,Prospecting,East,1437.61,37768,1095,67,8014.42
+2025-06-28,Google Ads,Display,Retargeting,East,846.9,21707,561,81,8493.41
+2025-06-28,Google Ads,Video,Prospecting,West,831.75,12914,525,29,3633.65
+2025-06-28,Google Ads,Search,Retargeting,West,431.84,9805,311,42,5069.71
+2025-06-29,YouTube Ads,Display,Lookalike,West,647.04,69790,1111,36,4377.2
+2025-06-29,Meta Ads,Social,Lookalike,East,885.13,46291,1273,77,7387.31
+2025-06-29,Google Ads,Search,Prospecting,East,1115.0,31967,884,67,7636.3
+2025-06-30,Meta Ads,Display,Retargeting,South,658.56,32078,700,35,3911.49
+2025-06-30,Google Ads,Video,Retargeting,North,1411.64,33735,1145,87,10780.66
+2025-06-30,Google Ads,Search,Retargeting,South,703.64,15183,569,66,8765.28
+2025-06-30,LinkedIn Ads,Social,Lookalike,West,1171.96,21513,484,30,3531.26
+2025-07-01,Meta Ads,Search,Prospecting,North,509.12,43019,745,42,3865.21
+2025-07-01,YouTube Ads,Social,Existing Customers,East,215.49,22924,381,22,2778.41
+2025-07-01,Meta Ads,Social,Prospecting,North,833.4,42773,1133,64,10367.96
+2025-07-02,Meta Ads,Social,Lookalike,South,1121.63,55607,1183,51,7376.03
+2025-07-02,LinkedIn Ads,Social,Retargeting,North,1017.45,25114,441,29,1782.36
+2025-07-02,YouTube Ads,Search,Prospecting,East,921.04,97382,1575,44,5110.17
+2025-07-03,LinkedIn Ads,Display,Lookalike,West,558.08,13941,267,14,1844.89
+2025-07-03,YouTube Ads,Display,Prospecting,West,414.34,38241,637,11,1228.9
+2025-07-03,LinkedIn Ads,Display,Lookalike,East,1001.95,16823,335,10,1067.18
+2025-07-03,YouTube Ads,Search,Retargeting,North,923.59,97695,1228,60,6611.68
+2025-07-04,Google Ads,Social,Prospecting,East,486.14,9778,409,27,3373.36
+2025-07-04,LinkedIn Ads,Social,Prospecting,North,1439.72,24632,547,26,2452.52
+2025-07-04,Meta Ads,Search,Lookalike,South,394.34,24660,561,34,4637.48
+2025-07-05,Meta Ads,Search,Prospecting,East,479.04,36343,611,34,3875.73
+2025-07-05,Meta Ads,Social,Existing Customers,East,2027.9,124314,2679,220,23325.09
+2025-07-05,YouTube Ads,Display,Lookalike,North,1231.09,135379,2103,77,10413.35
+2025-07-06,YouTube Ads,Search,Lookalike,West,554.67,76594,935,22,1918.13
+2025-07-06,Google Ads,Display,Prospecting,South,843.77,20821,683,57,5985.35
+2025-07-06,LinkedIn Ads,Social,Lookalike,West,774.1,24200,338,22,2303.62
+2025-07-07,LinkedIn Ads,Display,Existing Customers,East,117.5,2540,51,1,165.88
+2025-07-07,Google Ads,Social,Prospecting,East,388.34,7127,257,12,1232.04
+2025-07-07,Google Ads,Social,Prospecting,East,677.24,14677,382,16,1219.37
+2025-07-07,Google Ads,Social,Prospecting,West,555.17,15690,585,58,6062.59
+2025-07-08,LinkedIn Ads,Video,Prospecting,North,821.96,23516,419,10,1232.0
+2025-07-08,Meta Ads,Social,Lookalike,East,1458.62,97792,2361,157,20270.82
+2025-07-08,YouTube Ads,Social,Retargeting,North,567.98,71248,996,48,7486.93
+2025-07-09,Meta Ads,Social,Retargeting,South,351.99,22264,424,40,5612.97
+2025-07-09,YouTube Ads,Display,Prospecting,West,864.57,103855,1356,31,3669.86
+2025-07-09,Meta Ads,Search,Prospecting,West,566.1,38310,765,59,5838.32
+2025-07-10,LinkedIn Ads,Social,Prospecting,South,632.47,13399,242,8,1153.86
+2025-07-10,Google Ads,Social,Existing Customers,South,579.07,15663,563,103,12054.62
+2025-07-10,Meta Ads,Video,Retargeting,East,3005.73,204210,4341,440,45387.39
+2025-07-10,LinkedIn Ads,Social,Prospecting,South,163.14,4077,68,2,214.99
+2025-07-11,YouTube Ads,Social,Lookalike,North,543.84,85792,1208,49,4530.48
+2025-07-11,LinkedIn Ads,Video,Prospecting,South,698.32,12381,350,12,1279.56
+2025-07-11,Google Ads,Social,Prospecting,South,421.3,14377,438,42,4653.77
+2025-07-12,Meta Ads,Search,Prospecting,East,1256.35,77597,1544,93,11918.12
+2025-07-12,Google Ads,Search,Existing Customers,West,1187.61,15682,993,83,9682.41
+2025-07-12,Google Ads,Search,Lookalike,East,678.61,14170,535,92,8481.09
+2025-07-13,Meta Ads,Search,Retargeting,South,587.07,63749,1094,128,11024.91
+2025-07-13,LinkedIn Ads,Social,Prospecting,East,650.87,16421,344,15,1781.58
+2025-07-13,LinkedIn Ads,Display,Prospecting,West,653.91,16034,245,8,930.46
+2025-07-13,YouTube Ads,Display,Retargeting,South,665.23,101264,1789,72,7561.61
+2025-07-14,LinkedIn Ads,Search,Prospecting,South,619.48,12234,212,4,426.34
+2025-07-14,LinkedIn Ads,Social,Existing Customers,North,824.83,27661,460,33,4347.82
+2025-07-14,Google Ads,Search,Lookalike,West,1142.15,18563,868,67,9382.0
+2025-07-15,Google Ads,Video,Retargeting,West,314.63,8128,315,33,3331.59
+2025-07-15,Meta Ads,Search,Lookalike,North,353.59,15833,415,19,2215.4
+2025-07-15,YouTube Ads,Social,Existing Customers,South,224.65,14302,232,7,999.8
+2025-07-16,Google Ads,Social,Retargeting,South,1229.35,47603,1538,152,15356.55
+2025-07-16,Meta Ads,Social,Retargeting,West,823.69,41695,1024,68,7800.87
+2025-07-16,Meta Ads,Social,Existing Customers,North,972.14,65924,1803,153,18889.59
+2025-07-17,Google Ads,Display,Prospecting,North,276.42,6247,224,15,1370.95
+2025-07-17,Meta Ads,Search,Existing Customers,South,2233.44,105366,3206,213,27152.31
+2025-07-17,YouTube Ads,Video,Prospecting,East,471.22,45534,796,11,1271.25
+2025-07-17,Meta Ads,Social,Retargeting,North,780.87,54910,1255,77,9624.35
+2025-07-18,Google Ads,Display,Lookalike,East,1219.79,25559,936,93,8708.15
+2025-07-18,YouTube Ads,Display,Retargeting,East,368.54,52097,801,54,6219.69
+2025-07-18,Google Ads,Video,Retargeting,West,490.77,12526,350,33,4615.75
+2025-07-19,YouTube Ads,Search,Retargeting,North,786.46,98111,1448,68,10362.86
+2025-07-19,Google Ads,Search,Prospecting,North,4484.75,134014,4881,387,53422.38
+2025-07-19,Meta Ads,Search,Prospecting,North,851.34,44874,916,83,7786.46
+2025-07-20,Meta Ads,Search,Prospecting,West,1988.66,119425,2792,138,16990.41
+2025-07-20,Google Ads,Social,Retargeting,East,1532.67,27950,982,112,11905.98
+2025-07-20,YouTube Ads,Video,Retargeting,East,889.17,73138,1261,64,7687.05
+2025-07-20,Google Ads,Video,Prospecting,West,368.01,9230,364,24,2426.4
+2025-07-21,Google Ads,Social,Existing Customers,East,1393.98,34074,1229,98,8907.23
+2025-07-21,Google Ads,Social,Prospecting,North,264.36,8222,225,24,2611.17
+2025-07-21,LinkedIn Ads,Video,Retargeting,East,1981.58,26040,647,23,2944.16
+2025-07-22,LinkedIn Ads,Video,Retargeting,East,797.18,17668,310,11,1322.02
+2025-07-22,YouTube Ads,Search,Prospecting,North,125.02,14205,210,9,1100.28
+2025-07-22,Google Ads,Social,Lookalike,East,561.02,15316,504,30,3566.83
+2025-07-23,Meta Ads,Display,Retargeting,South,1070.78,74398,1499,135,16508.0
+2025-07-23,Google Ads,Social,Prospecting,North,600.05,9153,423,29,3611.41
+2025-07-23,Meta Ads,Social,Existing Customers,South,1114.14,54756,1546,143,16997.01
+2025-07-24,YouTube Ads,Video,Lookalike,South,402.85,45541,740,17,1980.36
+2025-07-24,LinkedIn Ads,Video,Lookalike,South,299.52,7760,137,3,439.14
+2025-07-24,Meta Ads,Video,Existing Customers,South,668.24,41230,1014,67,8506.39
+2025-07-24,Meta Ads,Display,Existing Customers,East,714.51,55710,1242,118,14753.24
+2025-07-25,YouTube Ads,Search,Prospecting,South,558.15,74853,1085,25,2921.3
+2025-07-25,Meta Ads,Social,Retargeting,South,1554.36,72667,1699,141,15661.95
+2025-07-25,Google Ads,Social,Retargeting,West,402.8,11198,362,65,6965.63
+2025-07-26,Meta Ads,Social,Prospecting,North,858.03,46260,1065,40,4750.25
+2025-07-26,Google Ads,Social,Prospecting,South,731.62,26053,946,70,7412.8
+2025-07-26,Google Ads,Social,Prospecting,North,254.48,5178,202,17,1910.47
+2025-07-27,Google Ads,Social,Lookalike,West,296.99,8464,265,33,3325.43
+2025-07-27,Meta Ads,Display,Lookalike,North,705.44,42320,1058,69,8069.15
+2025-07-27,Meta Ads,Social,Lookalike,West,2537.31,183161,3423,205,25730.68
+2025-07-27,Google Ads,Social,Prospecting,North,1020.05,30406,960,104,11563.3
+2025-07-28,Meta Ads,Search,Prospecting,South,228.02,22248,445,21,1655.83
+2025-07-28,YouTube Ads,Search,Retargeting,East,92.69,11158,138,6,753.76
+2025-07-28,LinkedIn Ads,Video,Retargeting,West,1127.28,20916,452,14,1640.29
+2025-07-29,Meta Ads,Social,Existing Customers,North,657.56,51952,960,60,6293.49
+2025-07-29,Google Ads,Search,Existing Customers,North,1469.83,48343,1492,188,26175.69
+2025-07-29,YouTube Ads,Display,Existing Customers,West,394.89,45790,861,36,3492.53
+2025-07-30,Google Ads,Social,Existing Customers,South,878.94,23335,737,78,11272.77
+2025-07-30,Google Ads,Search,Existing Customers,North,1213.29,24088,815,109,13416.24
+2025-07-30,YouTube Ads,Social,Retargeting,East,523.34,69829,873,34,2521.45
+2025-07-30,Meta Ads,Search,Prospecting,North,530.66,35996,920,79,9338.58
+2025-07-31,LinkedIn Ads,Display,Prospecting,West,711.59,13643,286,8,861.51
+2025-07-31,Meta Ads,Search,Prospecting,West,996.07,55512,1395,105,11022.55
+2025-07-31,Meta Ads,Search,Prospecting,West,693.51,34619,839,48,4882.6
+2025-08-01,Google Ads,Search,Prospecting,South,1318.41,29323,1040,90,10143.91
+2025-08-01,Google Ads,Social,Existing Customers,North,518.44,22828,727,69,7918.99
+2025-08-01,Google Ads,Search,Prospecting,South,295.19,7775,235,21,1713.17
+2025-08-02,Google Ads,Display,Existing Customers,South,2530.35,58531,2584,249,37083.32
+2025-08-02,YouTube Ads,Search,Lookalike,West,472.51,59429,1023,32,3539.25
+2025-08-02,Google Ads,Social,Retargeting,East,483.76,14048,434,76,7738.71
+2025-08-03,Meta Ads,Social,Lookalike,West,670.69,39353,872,46,4355.67
+2025-08-03,LinkedIn Ads,Social,Prospecting,West,731.24,23221,396,21,2706.34
+2025-08-03,LinkedIn Ads,Search,Retargeting,East,544.43,13817,203,21,1924.19
+2025-08-03,Meta Ads,Display,Prospecting,North,692.11,37464,851,22,2583.06
+2025-08-04,Meta Ads,Video,Existing Customers,North,682.14,46045,940,44,4965.57
+2025-08-04,YouTube Ads,Search,Prospecting,North,784.24,122897,1553,76,8021.23
+2025-08-04,Meta Ads,Search,Prospecting,East,151.22,14593,246,12,1141.63
+2025-08-05,LinkedIn Ads,Video,Lookalike,North,2377.13,61911,841,36,3738.03
+2025-08-05,YouTube Ads,Social,Lookalike,West,636.09,99573,1397,56,6448.88
+2025-08-05,LinkedIn Ads,Search,Retargeting,North,1020.95,20252,359,29,3457.83
+2025-08-06,Google Ads,Search,Retargeting,West,285.81,8529,255,44,4437.81
+2025-08-06,Meta Ads,Display,Prospecting,East,515.39,29393,727,35,3967.71
+2025-08-06,Google Ads,Display,Lookalike,North,452.18,14947,517,32,4191.75
+2025-08-06,Meta Ads,Social,Prospecting,North,1819.65,105993,2587,141,11995.25
+2025-08-07,YouTube Ads,Video,Prospecting,South,478.33,51536,748,27,3101.95
+2025-08-07,Meta Ads,Social,Prospecting,South,1145.77,103227,1971,97,9494.93
+2025-08-07,Meta Ads,Social,Prospecting,South,458.66,26184,588,45,4322.33
+2025-08-08,Google Ads,Social,Prospecting,East,521.59,16030,447,32,3830.34
+2025-08-08,YouTube Ads,Social,Retargeting,North,596.73,68967,1140,43,4522.98
+2025-08-08,Google Ads,Search,Prospecting,North,1612.56,41364,1223,152,14150.83
+2025-08-09,Google Ads,Search,Prospecting,East,204.93,6127,253,32,4442.79
+2025-08-09,Google Ads,Social,Retargeting,West,297.64,7440,245,23,3025.92
+2025-08-09,Google Ads,Display,Prospecting,South,197.42,3115,132,8,641.75
+2025-08-10,Meta Ads,Search,Lookalike,West,345.23,21196,381,24,2123.05
+2025-08-10,Meta Ads,Social,Existing Customers,South,413.04,27679,539,43,5836.68
+2025-08-10,Google Ads,Social,Retargeting,South,245.1,5976,224,23,2527.06
+2025-08-10,Google Ads,Social,Existing Customers,North,434.36,9674,418,53,8128.67
+2025-08-11,Google Ads,Display,Prospecting,South,188.96,3641,172,13,1639.22
+2025-08-11,Meta Ads,Display,Prospecting,South,361.18,20754,460,24,2889.37
+2025-08-11,Google Ads,Display,Lookalike,East,1527.45,31012,1511,138,13331.69
+2025-08-12,Meta Ads,Search,Lookalike,North,909.97,53634,1120,80,9907.67
+2025-08-12,Google Ads,Social,Lookalike,North,790.71,11464,489,33,3037.2
+2025-08-12,Google Ads,Social,Prospecting,South,364.77,10833,320,34,4708.81
+2025-08-13,Meta Ads,Search,Lookalike,North,257.91,18712,444,49,6007.33
+2025-08-13,Meta Ads,Search,Prospecting,North,333.83,39838,575,35,3505.36
+2025-08-13,Google Ads,Search,Prospecting,East,680.61,18286,523,58,7510.08
+2025-08-13,Google Ads,Social,Prospecting,West,1230.77,28397,1081,85,13204.53
+2025-08-14,YouTube Ads,Social,Existing Customers,East,1258.43,159238,1886,128,15356.1
+2025-08-14,Google Ads,Search,Prospecting,North,1054.66,26431,999,90,11241.67
+2025-08-14,Meta Ads,Display,Lookalike,West,433.4,20348,527,29,3109.59
+2025-08-15,Meta Ads,Video,Retargeting,East,711.26,50394,1013,95,11070.95
+2025-08-15,Google Ads,Search,Lookalike,East,568.05,18879,555,74,6502.36
+2025-08-15,Meta Ads,Video,Lookalike,North,614.19,45049,910,41,4714.61
+2025-08-16,LinkedIn Ads,Search,Existing Customers,East,2631.25,87786,1328,82,10253.87
+2025-08-16,LinkedIn Ads,Video,Prospecting,North,222.69,3791,67,0,0.0
+2025-08-16,Google Ads,Video,Prospecting,East,600.97,14895,531,33,2728.77
+2025-08-16,Google Ads,Search,Retargeting,North,1538.74,36439,1207,172,18910.38
+2025-08-17,Google Ads,Display,Prospecting,West,269.95,5411,256,18,2487.35
+2025-08-17,Meta Ads,Video,Prospecting,North,460.65,39166,757,21,2323.61
+2025-08-17,Meta Ads,Video,Prospecting,East,496.31,25335,716,19,2126.4
+2025-08-18,Google Ads,Video,Prospecting,North,605.43,15197,441,24,2400.03
+2025-08-18,Google Ads,Social,Prospecting,East,248.07,6599,234,17,1669.62
+2025-08-18,YouTube Ads,Search,Prospecting,South,1030.72,110075,2043,73,5995.83
+2025-08-19,Google Ads,Display,Existing Customers,West,1079.41,21349,916,58,6494.15
+2025-08-19,Meta Ads,Social,Prospecting,East,974.11,61234,1249,71,6900.6
+2025-08-19,LinkedIn Ads,Social,Existing Customers,South,397.56,6385,127,7,885.46
+2025-08-20,Google Ads,Social,Existing Customers,North,740.49,16103,608,71,7731.03
+2025-08-20,Google Ads,Social,Prospecting,East,390.12,9635,306,23,2446.45
+2025-08-20,Google Ads,Search,Lookalike,South,563.91,11175,437,36,3846.97
+2025-08-20,YouTube Ads,Display,Retargeting,North,2837.94,280534,5884,262,29902.85
+2025-08-21,Google Ads,Search,Lookalike,East,744.92,19842,756,81,8544.41
+2025-08-21,Google Ads,Display,Prospecting,North,323.5,8644,335,22,2109.53
+2025-08-21,Google Ads,Display,Prospecting,North,787.06,21442,847,50,5827.19
+2025-08-22,Google Ads,Social,Prospecting,North,290.74,8288,223,28,3758.01
+2025-08-22,Meta Ads,Social,Retargeting,South,321.09,17824,426,35,4105.93
+2025-08-22,Google Ads,Social,Existing Customers,North,355.79,10464,305,35,3932.08
+2025-08-23,Meta Ads,Video,Lookalike,North,524.41,55753,1103,30,3383.5
+2025-08-23,Meta Ads,Display,Lookalike,South,1287.05,39642,1287,57,4451.05
+2025-08-23,LinkedIn Ads,Social,Existing Customers,North,1019.47,28492,490,40,4859.6
+2025-08-23,Google Ads,Search,Lookalike,North,983.41,20108,616,46,4958.51
+2025-08-24,YouTube Ads,Search,Prospecting,South,342.67,40361,745,20,1963.95
+2025-08-24,Meta Ads,Social,Existing Customers,North,492.37,41995,779,56,6136.44
+2025-08-24,Google Ads,Video,Prospecting,West,835.38,31990,1033,53,5703.64
+2025-08-25,LinkedIn Ads,Display,Prospecting,South,465.3,8120,183,6,797.19
+2025-08-25,YouTube Ads,Search,Retargeting,West,584.14,79453,1201,78,10503.25
+2025-08-25,Google Ads,Video,Existing Customers,West,932.59,36445,963,76,8067.95
+2025-08-26,YouTube Ads,Social,Prospecting,West,558.01,72417,1198,44,4649.68
+2025-08-26,Meta Ads,Video,Retargeting,East,810.8,48524,994,63,6686.4
+2025-08-26,Meta Ads,Search,Prospecting,South,1971.11,84164,2443,128,16585.19
+2025-08-27,YouTube Ads,Social,Prospecting,East,626.01,60077,808,17,1999.53
+2025-08-27,Meta Ads,Video,Prospecting,North,1506.66,87839,2335,60,7000.21
+2025-08-27,LinkedIn Ads,Search,Lookalike,West,1006.94,16344,405,21,2617.71
+2025-08-27,Google Ads,Display,Existing Customers,South,269.72,9591,288,35,3941.2
+2025-08-28,LinkedIn Ads,Video,Prospecting,North,341.96,8628,150,6,837.3
+2025-08-28,Meta Ads,Search,Prospecting,North,407.17,26023,614,49,5633.46
+2025-08-28,Google Ads,Search,Prospecting,North,401.59,10802,324,23,2290.65
+2025-08-29,Meta Ads,Display,Prospecting,North,660.1,33728,779,36,3991.19
+2025-08-29,Google Ads,Social,Retargeting,East,1043.77,23058,775,102,13991.82
+2025-08-29,Google Ads,Search,Lookalike,North,1582.77,47029,1575,247,26514.82
+2025-08-30,Google Ads,Social,Retargeting,West,855.25,17955,634,84,11095.73
+2025-08-30,Google Ads,Display,Prospecting,South,523.95,12947,459,27,2801.08
+2025-08-30,Google Ads,Search,Retargeting,East,180.84,4605,166,22,2226.8
+2025-08-30,Google Ads,Social,Prospecting,South,732.87,22722,714,62,7866.11
+2025-08-31,LinkedIn Ads,Display,Prospecting,North,711.82,19892,324,10,992.68
+2025-08-31,LinkedIn Ads,Social,Existing Customers,North,788.38,14132,249,12,1682.28
+2025-08-31,LinkedIn Ads,Display,Lookalike,East,2752.15,61157,1092,46,5581.15
+2025-09-01,Google Ads,Social,Existing Customers,East,1567.86,41000,1326,126,13509.38
+2025-09-01,YouTube Ads,Video,Existing Customers,South,1166.04,131881,2097,64,7859.91
+2025-09-01,Meta Ads,Display,Retargeting,South,374.55,22181,352,15,1576.83
+2025-09-02,Google Ads,Search,Existing Customers,West,501.52,11536,354,40,5239.36
+2025-09-02,Google Ads,Video,Retargeting,West,658.15,19291,642,58,8640.86
+2025-09-02,Meta Ads,Social,Prospecting,South,422.87,32559,614,17,1841.56
+2025-09-02,Google Ads,Search,Prospecting,North,969.11,18582,872,79,9844.03
+2025-09-03,Meta Ads,Search,Prospecting,South,882.78,54270,1198,76,8773.43
+2025-09-03,YouTube Ads,Display,Prospecting,East,345.05,43009,666,26,3001.26
+2025-09-03,Google Ads,Search,Prospecting,East,1523.87,38492,1235,144,16131.79
+2025-09-04,Google Ads,Search,Lookalike,North,748.13,14785,516,29,2887.43
+2025-09-04,YouTube Ads,Search,Lookalike,North,227.51,40156,484,16,1936.52
+2025-09-04,Meta Ads,Social,Retargeting,South,677.02,52770,1126,80,8784.21
+2025-09-05,Google Ads,Social,Prospecting,West,840.39,26718,790,69,6811.24
+2025-09-05,YouTube Ads,Social,Lookalike,North,1317.37,170715,2436,103,13725.28
+2025-09-05,YouTube Ads,Search,Prospecting,South,562.12,74404,704,28,3269.9
+2025-09-06,Meta Ads,Search,Prospecting,North,1199.0,79020,1419,72,7984.38
+2025-09-06,Meta Ads,Social,Prospecting,North,790.55,32969,944,56,7790.78
+2025-09-06,Google Ads,Social,Prospecting,East,297.76,6643,270,13,1065.36
+2025-09-06,Google Ads,Display,Prospecting,South,279.0,5723,254,18,2482.39
+2025-09-07,Meta Ads,Search,Lookalike,South,1452.07,90077,2544,165,16360.84
+2025-09-07,Google Ads,Search,Lookalike,West,1523.05,29589,1169,125,14850.95
+2025-09-07,Meta Ads,Search,Lookalike,North,863.48,54690,1109,120,12529.78
+2025-09-08,LinkedIn Ads,Social,Prospecting,North,1850.65,42051,628,15,1475.79
+2025-09-08,Google Ads,Social,Lookalike,West,1391.14,29077,1251,124,17192.59
+2025-09-08,Meta Ads,Display,Lookalike,East,1091.64,69685,1551,96,14247.54
+2025-09-09,Google Ads,Social,Prospecting,North,387.12,5982,328,29,3219.52
+2025-09-09,YouTube Ads,Social,Retargeting,South,2157.08,229533,3224,177,21423.82
+2025-09-09,Google Ads,Social,Retargeting,East,991.95,21854,1091,127,14735.28
+2025-09-09,Meta Ads,Search,Retargeting,South,544.73,31467,673,69,10084.29
+2025-09-10,Meta Ads,Social,Prospecting,East,453.37,22587,632,33,2539.79
+2025-09-10,Meta Ads,Social,Retargeting,East,827.15,45583,1361,127,15467.1
+2025-09-10,Meta Ads,Social,Prospecting,South,236.25,25027,458,37,3770.73
+2025-09-11,LinkedIn Ads,Search,Prospecting,West,1103.09,28493,470,31,2250.37
+2025-09-11,Meta Ads,Display,Prospecting,South,376.63,22718,415,25,2712.76
+2025-09-11,LinkedIn Ads,Video,Existing Customers,West,890.67,19688,284,14,2241.76
+2025-09-12,YouTube Ads,Search,Prospecting,North,498.71,48009,812,24,2476.59
+2025-09-12,Meta Ads,Social,Prospecting,South,589.46,28161,598,38,4910.88
+2025-09-12,Meta Ads,Display,Prospecting,East,427.99,26972,599,21,2868.1
+2025-09-13,Google Ads,Search,Existing Customers,West,630.35,12175,471,76,9420.44
+2025-09-13,LinkedIn Ads,Display,Retargeting,North,2390.31,83122,1071,62,7264.43
+2025-09-13,Meta Ads,Social,Existing Customers,West,1722.22,93639,2597,186,16895.34
+2025-09-13,Meta Ads,Video,Prospecting,North,881.38,66021,1364,73,7453.96
+2025-09-14,Google Ads,Video,Prospecting,South,688.59,21625,833,41,5384.37
+2025-09-14,YouTube Ads,Search,Retargeting,South,1211.74,101353,1700,138,16020.73
+2025-09-14,Meta Ads,Social,Prospecting,South,1459.08,79768,2246,125,15201.52
+2025-09-15,Meta Ads,Social,Lookalike,West,408.18,29830,644,44,5165.46
+2025-09-15,Google Ads,Search,Existing Customers,East,665.64,29270,699,77,12844.57
+2025-09-15,YouTube Ads,Social,Retargeting,West,214.18,25206,382,20,2145.01
+2025-09-16,Google Ads,Video,Existing Customers,South,1452.58,26262,953,104,16162.55
+2025-09-16,Google Ads,Search,Retargeting,West,2679.39,57374,1667,183,21484.76
+2025-09-16,YouTube Ads,Social,Prospecting,South,737.4,107637,1658,51,7420.27
+2025-09-16,YouTube Ads,Display,Retargeting,East,175.88,22837,321,18,1673.11
+2025-09-17,Google Ads,Social,Prospecting,East,1039.88,38821,1067,82,9702.55
+2025-09-17,Meta Ads,Social,Lookalike,East,388.94,18569,461,41,4424.46
+2025-09-17,LinkedIn Ads,Video,Prospecting,East,454.82,11129,181,5,587.55
+2025-09-18,YouTube Ads,Social,Prospecting,South,1051.9,144026,2008,63,8631.17
+2025-09-18,Meta Ads,Search,Retargeting,East,825.96,56021,1134,87,10598.22
+2025-09-18,Meta Ads,Search,Prospecting,West,509.69,27803,764,57,7807.11
+2025-09-19,LinkedIn Ads,Video,Prospecting,South,458.9,8283,148,5,514.68
+2025-09-19,LinkedIn Ads,Search,Lookalike,East,759.66,15883,290,13,1302.46
+2025-09-19,LinkedIn Ads,Social,Prospecting,North,536.43,12088,201,12,1383.48
+2025-09-19,Meta Ads,Search,Retargeting,South,340.38,30278,724,76,8687.12
+2025-09-20,Google Ads,Social,Prospecting,West,563.92,11116,496,36,4019.56
+2025-09-20,YouTube Ads,Video,Prospecting,East,872.9,63956,1078,26,2541.36
+2025-09-20,YouTube Ads,Social,Prospecting,North,623.48,51196,869,24,3277.82
+2025-09-21,LinkedIn Ads,Video,Lookalike,East,279.3,7771,156,5,542.34
+2025-09-21,Google Ads,Search,Existing Customers,West,1331.38,44578,1217,73,11090.38
+2025-09-21,Google Ads,Social,Prospecting,North,118.02,4148,124,10,1152.29
+2025-09-22,LinkedIn Ads,Video,Existing Customers,North,523.71,9569,166,5,684.03
+2025-09-22,Google Ads,Social,Retargeting,South,467.76,12731,391,46,5751.78
+2025-09-22,YouTube Ads,Search,Retargeting,East,770.78,121363,1503,66,6610.76
+2025-09-23,Meta Ads,Video,Lookalike,South,1008.44,88692,1393,75,9120.72
+2025-09-23,LinkedIn Ads,Social,Lookalike,West,1456.04,65200,921,69,10329.99
+2025-09-23,YouTube Ads,Social,Lookalike,West,440.55,63115,904,52,6215.51
+2025-09-23,Meta Ads,Video,Retargeting,East,1024.91,65127,1415,68,8923.16
+2025-09-24,Google Ads,Search,Retargeting,South,795.02,19905,604,106,13512.76
+2025-09-24,Meta Ads,Social,Prospecting,North,230.12,19539,436,16,1928.43
+2025-09-24,Meta Ads,Search,Prospecting,West,2407.71,174666,3554,172,20357.34
+2025-09-25,Meta Ads,Social,Lookalike,West,274.75,12140,325,19,2372.18
+2025-09-25,Meta Ads,Search,Prospecting,South,919.43,75389,1611,123,15834.91
+2025-09-25,YouTube Ads,Display,Prospecting,East,901.95,88161,1499,45,4079.75
+2025-09-26,Meta Ads,Search,Prospecting,West,837.35,50439,1151,65,7764.34
+2025-09-26,Google Ads,Display,Prospecting,East,507.56,12319,335,21,2345.42
+2025-09-26,Meta Ads,Search,Retargeting,North,1198.46,79792,1727,95,10255.49
+2025-09-26,Meta Ads,Social,Retargeting,East,253.87,20553,362,30,4149.82
+2025-09-27,Google Ads,Social,Retargeting,West,670.68,14829,509,56,5700.99
+2025-09-27,Google Ads,Display,Prospecting,West,485.2,17055,522,38,3415.98
+2025-09-27,Meta Ads,Social,Retargeting,South,450.72,27540,649,46,5948.85
+2025-09-28,Google Ads,Social,Prospecting,East,924.97,31469,865,59,5276.54
+2025-09-28,YouTube Ads,Video,Lookalike,South,1410.14,165295,2486,59,4737.52
+2025-09-28,Google Ads,Social,Retargeting,East,560.02,10954,425,53,6961.49
+2025-09-29,Google Ads,Search,Retargeting,North,1162.73,22445,925,133,15674.98
+2025-09-29,LinkedIn Ads,Video,Retargeting,South,723.0,21674,340,16,1976.14
+2025-09-29,YouTube Ads,Social,Existing Customers,South,391.82,43926,661,26,3005.58
+2025-09-30,Google Ads,Search,Lookalike,South,591.94,11222,406,44,3963.55
+2025-09-30,Google Ads,Social,Retargeting,South,576.18,12370,572,70,6555.91
+2025-09-30,Google Ads,Search,Retargeting,North,445.08,14100,378,42,4624.23
+2025-09-30,Meta Ads,Search,Prospecting,East,924.82,70961,1325,86,7920.32
+2025-10-01,Meta Ads,Display,Existing Customers,South,815.34,31388,1144,97,12626.4
+2025-10-01,Google Ads,Search,Prospecting,West,248.93,8433,281,22,2346.87
+2025-10-01,Google Ads,Display,Prospecting,North,239.27,6666,166,17,2011.62
+2025-10-02,Meta Ads,Video,Existing Customers,East,922.53,73196,1450,58,7378.53
+2025-10-02,YouTube Ads,Social,Lookalike,North,412.05,66172,603,23,2805.14
+2025-10-02,Meta Ads,Display,Prospecting,East,851.85,56888,1307,42,5207.61
+2025-10-03,Meta Ads,Display,Prospecting,South,1162.92,70131,1785,137,14906.94
+2025-10-03,Google Ads,Video,Prospecting,South,306.42,7373,219,12,1419.74
+2025-10-03,Google Ads,Social,Retargeting,East,279.66,6437,207,20,2384.96
+2025-10-03,Google Ads,Search,Prospecting,West,2078.62,42293,1748,124,8838.72
+2025-10-04,LinkedIn Ads,Social,Existing Customers,South,879.72,24742,325,12,1641.22
+2025-10-04,YouTube Ads,Social,Existing Customers,West,533.03,81357,962,42,5338.82
+2025-10-04,YouTube Ads,Search,Retargeting,North,381.46,45775,659,32,4004.89
+2025-10-05,YouTube Ads,Social,Retargeting,South,502.35,73510,963,23,2112.25
+2025-10-05,YouTube Ads,Search,Prospecting,South,322.86,33879,482,23,2514.27
+2025-10-05,YouTube Ads,Video,Prospecting,West,1243.02,200450,2395,52,4958.33
+2025-10-06,Google Ads,Search,Lookalike,North,422.5,7972,290,30,3852.08
+2025-10-06,Google Ads,Search,Prospecting,South,1424.93,38242,1303,155,13904.72
+2025-10-06,Google Ads,Search,Prospecting,South,539.52,12113,468,35,3439.95
+2025-10-06,Meta Ads,Search,Prospecting,West,355.28,19160,437,28,3489.29
+2025-10-07,Google Ads,Search,Prospecting,South,530.59,12663,460,24,2488.11
+2025-10-07,LinkedIn Ads,Search,Retargeting,West,127.15,4036,56,6,589.73
+2025-10-07,Meta Ads,Search,Lookalike,East,647.15,37563,903,56,7353.97
+2025-10-08,Meta Ads,Search,Lookalike,East,626.72,36376,754,54,7131.18
+2025-10-08,Google Ads,Social,Retargeting,West,1196.51,34063,1157,137,17535.63
+2025-10-08,Google Ads,Social,Lookalike,North,205.4,4306,182,16,2084.43
+2025-10-09,Google Ads,Social,Retargeting,South,1489.65,42050,1293,161,17843.88
+2025-10-09,YouTube Ads,Social,Lookalike,East,1193.29,93674,1792,97,10797.78
+2025-10-09,Meta Ads,Search,Retargeting,North,1579.57,78121,2229,200,20666.91
+2025-10-10,LinkedIn Ads,Search,Prospecting,North,676.42,10237,211,18,2124.34
+2025-10-10,Google Ads,Search,Existing Customers,North,1353.05,41109,1206,133,15153.71
+2025-10-10,Meta Ads,Display,Prospecting,West,269.02,26141,388,15,1608.07
+2025-10-10,Meta Ads,Video,Prospecting,East,1112.72,59442,1588,63,7925.29
+2025-10-11,LinkedIn Ads,Video,Prospecting,South,424.04,11871,218,3,408.97
+2025-10-11,LinkedIn Ads,Social,Prospecting,East,239.29,7497,118,3,366.51
+2025-10-11,Google Ads,Social,Prospecting,East,337.1,7379,319,22,3240.55
+2025-10-12,YouTube Ads,Social,Retargeting,West,702.52,78629,1010,63,6444.95
+2025-10-12,Google Ads,Display,Existing Customers,West,409.64,11040,358,39,3450.32
+2025-10-12,YouTube Ads,Display,Prospecting,West,893.84,100993,1665,40,5114.53
+2025-10-13,Google Ads,Display,Retargeting,North,216.1,5377,154,8,808.86
+2025-10-13,Google Ads,Video,Prospecting,West,175.65,3468,119,9,990.66
+2025-10-13,LinkedIn Ads,Social,Lookalike,South,1708.09,26577,582,21,1746.02
+2025-10-13,Google Ads,Display,Prospecting,South,1259.6,34520,1255,63,6225.3
+2025-10-14,Meta Ads,Display,Prospecting,East,353.91,19319,532,31,2726.76
+2025-10-14,Meta Ads,Social,Retargeting,East,698.64,26909,726,54,5787.86
+2025-10-14,Google Ads,Video,Lookalike,South,1357.99,32412,1136,64,6905.48
+2025-10-15,LinkedIn Ads,Search,Lookalike,West,919.25,33842,400,18,2099.15
+2025-10-15,YouTube Ads,Video,Retargeting,North,770.8,96398,1185,74,10161.31
+2025-10-15,YouTube Ads,Display,Lookalike,North,1426.43,121620,2093,58,7376.69
+2025-10-16,Google Ads,Search,Prospecting,North,435.34,15674,415,33,2831.43
+2025-10-16,Meta Ads,Display,Prospecting,West,714.33,46183,958,27,3400.5
+2025-10-16,Google Ads,Search,Prospecting,South,691.93,13952,519,49,5733.57
+2025-10-17,Google Ads,Display,Prospecting,South,586.27,13465,614,37,4189.85
+2025-10-17,Google Ads,Display,Prospecting,East,543.32,14956,472,22,2521.01
+2025-10-17,YouTube Ads,Social,Retargeting,South,733.95,113178,1512,92,10918.74
+2025-10-17,YouTube Ads,Video,Prospecting,East,715.83,97247,1445,38,3896.75
+2025-10-18,LinkedIn Ads,Search,Retargeting,North,354.11,8397,161,16,1787.48
+2025-10-18,Meta Ads,Search,Retargeting,North,1178.79,70896,1517,163,22218.68
+2025-10-18,Meta Ads,Social,Lookalike,West,371.08,20434,543,37,3786.2
+2025-10-19,Meta Ads,Search,Lookalike,South,607.42,49127,936,67,6462.96
+2025-10-19,Meta Ads,Social,Prospecting,North,577.75,35408,796,46,5238.91
+2025-10-19,Meta Ads,Search,Prospecting,South,883.46,61840,1474,51,4827.14
+2025-10-20,Google Ads,Social,Retargeting,South,176.56,4391,143,11,923.89
+2025-10-20,Google Ads,Social,Retargeting,South,1249.09,22254,906,110,11967.95
+2025-10-20,YouTube Ads,Video,Prospecting,South,450.81,51079,787,12,1692.9
+2025-10-20,Meta Ads,Search,Prospecting,East,1546.97,87512,2219,128,14631.06
+2025-10-21,YouTube Ads,Video,Lookalike,North,513.0,53627,833,29,3428.22
+2025-10-21,Google Ads,Social,Retargeting,South,678.13,21787,816,105,8049.02
+2025-10-21,Meta Ads,Social,Prospecting,South,2428.53,157643,3095,229,28140.95
+2025-10-22,Google Ads,Social,Retargeting,East,584.53,9890,309,52,6067.39
+2025-10-22,Google Ads,Social,Existing Customers,West,1566.08,31836,1389,141,15689.64
+2025-10-22,Google Ads,Search,Prospecting,West,717.99,16207,636,54,6385.01
+2025-10-23,Google Ads,Social,Existing Customers,South,917.0,24318,708,36,4590.26
+2025-10-23,YouTube Ads,Search,Prospecting,East,732.57,62660,971,33,3165.66
+2025-10-23,Google Ads,Social,Retargeting,North,1214.62,39597,904,76,9193.98
+2025-10-23,Meta Ads,Social,Retargeting,East,448.31,44303,879,62,8466.0
+2025-10-24,Meta Ads,Social,Prospecting,North,369.24,17932,469,18,1996.15
+2025-10-24,Meta Ads,Display,Existing Customers,North,462.2,19758,425,33,3542.02
+2025-10-24,Meta Ads,Search,Retargeting,East,746.87,41785,939,118,13192.82
+2025-10-25,Google Ads,Video,Existing Customers,North,606.41,31176,634,52,7322.31
+2025-10-25,YouTube Ads,Display,Prospecting,South,1110.71,130997,1831,87,8084.58
+2025-10-25,LinkedIn Ads,Video,Existing Customers,North,1634.6,43701,836,25,3386.18
+2025-10-26,LinkedIn Ads,Display,Existing Customers,East,371.22,6489,127,3,333.06
+2025-10-26,Meta Ads,Search,Retargeting,West,434.42,26872,703,47,5609.79
+2025-10-26,Google Ads,Social,Prospecting,East,275.21,7003,236,16,1677.47
+2025-10-27,YouTube Ads,Search,Lookalike,West,2619.72,355854,5181,247,25884.04
+2025-10-27,Google Ads,Display,Retargeting,South,853.3,29414,810,66,9399.44
+2025-10-27,Google Ads,Social,Existing Customers,North,956.19,19446,656,74,7163.74
+2025-10-27,Google Ads,Search,Retargeting,North,292.93,9000,251,34,4207.04
+2025-10-28,LinkedIn Ads,Video,Prospecting,North,699.47,24716,319,9,1315.47
+2025-10-28,Meta Ads,Search,Prospecting,North,974.66,89852,1626,114,14516.69
+2025-10-28,LinkedIn Ads,Social,Lookalike,South,593.95,14143,334,23,2093.93
+2025-10-29,LinkedIn Ads,Display,Existing Customers,North,1408.51,41821,717,39,3872.16
+2025-10-29,Google Ads,Search,Prospecting,East,3145.63,73792,2687,214,21714.74
+2025-10-29,YouTube Ads,Social,Lookalike,North,378.23,40729,557,27,3181.74
+2025-10-30,Meta Ads,Display,Existing Customers,East,360.22,34319,547,25,3214.81
+2025-10-30,Meta Ads,Search,Prospecting,South,395.65,16399,427,12,1105.31
+2025-10-30,Google Ads,Social,Prospecting,East,1988.45,81906,1939,111,11021.23
+2025-10-30,YouTube Ads,Search,Lookalike,East,1378.31,181886,2469,97,9738.15
+2025-10-31,Google Ads,Display,Retargeting,West,640.97,19101,662,87,9721.95
+2025-10-31,Google Ads,Search,Prospecting,South,716.83,14582,532,47,7084.05
+2025-10-31,Meta Ads,Video,Lookalike,South,411.71,21188,409,12,1178.43
+2025-11-01,Google Ads,Video,Retargeting,East,1248.38,57236,1439,127,12371.67
+2025-11-01,Google Ads,Search,Existing Customers,East,546.83,16601,503,61,6232.48
+2025-11-01,Meta Ads,Social,Existing Customers,South,591.13,34901,671,37,5052.53
+2025-11-02,Meta Ads,Social,Lookalike,East,1039.81,95079,1820,111,12682.4
+2025-11-02,YouTube Ads,Display,Retargeting,South,619.48,54586,975,39,3855.85
+2025-11-02,Google Ads,Social,Prospecting,South,600.85,15285,430,36,3904.91
+2025-11-03,LinkedIn Ads,Search,Retargeting,South,704.83,15261,290,27,2720.33
+2025-11-03,Meta Ads,Search,Prospecting,West,1173.87,65957,1493,85,10227.71
+2025-11-03,Meta Ads,Video,Lookalike,East,2041.22,81791,2139,89,14535.37
+2025-11-03,Meta Ads,Social,Prospecting,North,1024.18,48466,1041,62,7744.76
+2025-11-04,Meta Ads,Video,Retargeting,West,1179.96,65242,1655,103,11672.6
+2025-11-04,YouTube Ads,Social,Prospecting,East,614.73,79356,1154,38,3915.16
+2025-11-04,Google Ads,Video,Prospecting,North,441.87,11758,445,36,3269.48
+2025-11-05,Google Ads,Search,Prospecting,East,1070.81,29808,796,72,9230.86
+2025-11-05,Meta Ads,Search,Retargeting,East,782.42,98882,1353,91,11577.78
+2025-11-05,LinkedIn Ads,Video,Lookalike,West,277.65,6229,120,2,213.22
+2025-11-06,Google Ads,Video,Prospecting,South,565.57,12796,484,32,4378.88
+2025-11-06,Meta Ads,Social,Existing Customers,East,663.28,41642,998,67,8348.89
+2025-11-06,YouTube Ads,Social,Existing Customers,South,502.34,60670,828,47,6545.28
+2025-11-06,LinkedIn Ads,Social,Prospecting,South,1833.92,21542,507,29,3489.61
+2025-11-07,YouTube Ads,Social,Lookalike,East,956.21,121738,1681,81,9056.74
+2025-11-07,Meta Ads,Search,Retargeting,West,1708.97,107242,2545,189,18486.48
+2025-11-07,Meta Ads,Video,Prospecting,West,830.73,40065,981,31,3483.79
+2025-11-08,Google Ads,Search,Retargeting,West,738.03,12959,618,69,8980.83
+2025-11-08,YouTube Ads,Display,Prospecting,East,380.81,36844,522,11,1164.39
+2025-11-08,Meta Ads,Search,Existing Customers,East,705.45,48774,954,73,9690.65
+2025-11-09,LinkedIn Ads,Search,Existing Customers,South,705.96,22262,306,20,2063.03
+2025-11-09,Meta Ads,Display,Lookalike,West,287.85,18287,532,25,3226.03
+2025-11-09,Meta Ads,Social,Retargeting,South,492.94,37373,887,65,7841.14
+2025-11-09,LinkedIn Ads,Display,Retargeting,South,567.33,16232,317,10,933.62
+2025-11-10,Meta Ads,Search,Existing Customers,West,915.84,31048,1197,122,14621.11
+2025-11-10,YouTube Ads,Video,Prospecting,East,944.79,127391,2026,71,9355.38
+2025-11-10,Meta Ads,Display,Prospecting,South,479.73,31317,545,20,1846.75
+2025-11-11,Meta Ads,Video,Retargeting,West,949.41,61777,1312,101,9668.01
+2025-11-11,Google Ads,Search,Prospecting,West,621.87,19137,562,51,5801.2
+2025-11-11,Meta Ads,Social,Prospecting,South,108.4,8396,172,6,920.4
+2025-11-12,Meta Ads,Social,Prospecting,East,510.82,31375,642,24,2469.45
+2025-11-12,Google Ads,Social,Retargeting,South,1411.52,44331,1396,109,13506.73
+2025-11-12,Google Ads,Search,Prospecting,East,234.61,8775,239,17,2034.6
+2025-11-13,Meta Ads,Search,Prospecting,West,753.2,29519,865,45,4697.49
+2025-11-13,Meta Ads,Social,Prospecting,East,1961.57,110873,2574,169,19925.17
+2025-11-13,Meta Ads,Search,Prospecting,West,426.96,29160,616,40,4277.56
+2025-11-13,Google Ads,Social,Existing Customers,East,700.98,13711,550,47,5510.48
+2025-11-14,Google Ads,Search,Prospecting,West,299.91,6825,260,9,765.87
+2025-11-14,Google Ads,Search,Lookalike,South,2015.82,44833,1649,95,10883.21
+2025-11-14,LinkedIn Ads,Social,Lookalike,South,663.09,15470,315,13,1705.39
+2025-11-15,YouTube Ads,Social,Prospecting,South,721.54,58115,893,46,5337.55
+2025-11-15,Google Ads,Social,Lookalike,West,1688.13,40798,1611,124,16694.01
+2025-11-15,Meta Ads,Social,Lookalike,East,1076.04,46241,1165,90,11290.13
+2025-11-16,Google Ads,Display,Retargeting,North,396.2,9850,355,28,3189.99
+2025-11-16,Google Ads,Social,Prospecting,North,459.6,10434,351,22,2281.34
+2025-11-16,Google Ads,Social,Prospecting,East,965.63,16204,747,76,8074.79
+2025-11-16,Google Ads,Video,Existing Customers,West,466.57,10525,338,23,2199.11
+2025-11-17,Meta Ads,Social,Lookalike,South,176.77,11904,281,16,1763.08
+2025-11-17,YouTube Ads,Video,Existing Customers,East,676.19,60766,982,48,6097.83
+2025-11-17,Google Ads,Display,Existing Customers,West,267.45,5516,173,22,3466.05
+2025-11-18,Meta Ads,Search,Prospecting,East,2001.52,152292,2897,222,27641.17
+2025-11-18,LinkedIn Ads,Social,Lookalike,West,785.24,19243,325,14,1392.06
+2025-11-18,YouTube Ads,Display,Retargeting,East,388.66,53102,729,44,3920.02
+2025-11-19,Meta Ads,Video,Lookalike,East,444.51,38590,653,34,3783.59
+2025-11-19,Google Ads,Social,Prospecting,West,204.99,4369,136,7,907.28
+2025-11-19,Meta Ads,Search,Prospecting,East,342.55,24220,559,23,2553.66
+2025-11-20,Google Ads,Social,Lookalike,North,1355.18,31167,1370,124,15469.71
+2025-11-20,YouTube Ads,Search,Lookalike,South,2986.15,240074,3979,162,18101.84
+2025-11-20,Meta Ads,Display,Retargeting,North,1122.42,102404,1411,80,10232.48
+2025-11-20,Meta Ads,Social,Prospecting,East,659.35,26405,652,36,3104.98
+2025-11-21,Google Ads,Display,Prospecting,North,528.64,15606,494,34,4891.76
+2025-11-21,Meta Ads,Video,Existing Customers,East,375.91,21450,512,15,1538.6
+2025-11-21,YouTube Ads,Social,Retargeting,South,2670.25,342002,5117,156,20168.8
+2025-11-22,Meta Ads,Social,Retargeting,North,619.18,39529,840,49,5394.93
+2025-11-22,Meta Ads,Display,Retargeting,North,2769.0,236494,5108,394,44488.55
+2025-11-22,YouTube Ads,Display,Retargeting,East,1731.72,179122,2676,90,9959.41
+2025-11-23,YouTube Ads,Video,Retargeting,North,225.78,19365,370,17,2033.22
+2025-11-23,Google Ads,Search,Retargeting,West,454.05,11412,398,65,8010.3
+2025-11-23,Meta Ads,Social,Lookalike,West,453.14,25049,670,43,5764.17
+2025-11-23,Meta Ads,Search,Existing Customers,East,664.6,40874,1065,91,13792.92
+2025-11-24,Meta Ads,Video,Existing Customers,North,673.09,33539,832,37,4834.07
+2025-11-24,Google Ads,Social,Retargeting,West,4908.07,202839,5147,318,46379.07
+2025-11-24,Google Ads,Social,Retargeting,East,347.54,6497,278,26,3033.51
+2025-11-25,YouTube Ads,Search,Lookalike,South,812.33,72756,1005,44,5913.33
+2025-11-25,YouTube Ads,Social,Lookalike,North,1045.04,83282,1421,63,7731.17
+2025-11-25,LinkedIn Ads,Display,Retargeting,East,699.29,24554,371,16,1681.83
+2025-11-26,YouTube Ads,Search,Lookalike,West,751.97,116598,1413,38,4493.96
+2025-11-26,LinkedIn Ads,Search,Lookalike,North,354.94,5372,138,8,992.46
+2025-11-26,LinkedIn Ads,Video,Lookalike,North,750.17,20856,316,6,686.52
+2025-11-26,LinkedIn Ads,Display,Lookalike,South,976.03,23007,509,33,4040.24
+2025-11-27,Meta Ads,Search,Prospecting,East,866.12,50325,1131,82,10707.28
+2025-11-27,Meta Ads,Search,Retargeting,South,1014.05,69175,1411,152,17416.05
+2025-11-27,Google Ads,Video,Retargeting,South,1753.34,32317,1122,103,6387.03
+2025-11-28,Meta Ads,Display,Prospecting,South,1287.05,106914,1861,105,15246.93
+2025-11-28,Google Ads,Social,Existing Customers,North,733.2,15152,529,65,7696.96
+2025-11-28,Google Ads,Social,Retargeting,North,326.83,12082,348,55,5509.95
+2025-11-29,Meta Ads,Search,Prospecting,North,473.94,37875,776,57,5401.66
+2025-11-29,Meta Ads,Search,Lookalike,East,606.87,28899,751,47,5120.37
+2025-11-29,Google Ads,Display,Lookalike,West,824.77,16458,603,47,4928.92
+2025-11-30,LinkedIn Ads,Search,Lookalike,South,512.94,18063,249,15,1526.01
+2025-11-30,YouTube Ads,Search,Prospecting,North,381.02,37404,654,14,1438.1
+2025-11-30,Google Ads,Display,Existing Customers,South,323.36,10041,351,39,5245.43
+2025-11-30,Google Ads,Video,Retargeting,West,239.32,6741,214,24,3637.12
+2025-12-01,Google Ads,Display,Retargeting,North,600.86,11415,457,66,8564.84
+2025-12-01,LinkedIn Ads,Social,Prospecting,South,269.29,6870,120,4,540.83
+2025-12-01,LinkedIn Ads,Social,Retargeting,East,365.31,10827,158,9,973.86
+2025-12-02,Google Ads,Social,Lookalike,South,541.88,11575,565,54,6311.73
+2025-12-02,LinkedIn Ads,Social,Retargeting,South,293.75,7579,136,3,368.03
+2025-12-02,Google Ads,Social,Retargeting,South,895.98,17048,588,73,7528.34
+2025-12-03,Meta Ads,Social,Lookalike,South,1132.55,76028,1555,129,13846.45
+2025-12-03,YouTube Ads,Social,Lookalike,East,489.78,53425,991,39,5084.9
+2025-12-03,Google Ads,Video,Prospecting,East,526.9,15136,482,33,4442.63
+2025-12-03,Google Ads,Video,Existing Customers,North,992.68,42071,1115,121,15186.77
+2025-12-04,Meta Ads,Search,Lookalike,North,440.09,36928,719,53,4954.82
+2025-12-04,Meta Ads,Social,Existing Customers,South,420.86,16825,470,41,4856.6
+2025-12-04,YouTube Ads,Search,Existing Customers,West,1523.56,154215,2687,91,8752.43
+2025-12-05,YouTube Ads,Social,Existing Customers,North,1243.65,110560,1584,58,7288.39
+2025-12-05,Google Ads,Search,Lookalike,North,1034.93,20395,914,57,6817.04
+2025-12-05,Google Ads,Search,Retargeting,East,1277.61,27894,1117,174,19162.13
+2025-12-06,LinkedIn Ads,Display,Prospecting,South,193.61,4255,73,3,358.05
+2025-12-06,Google Ads,Social,Retargeting,North,1687.62,66264,2251,231,28298.48
+2025-12-06,YouTube Ads,Video,Lookalike,North,903.18,94684,1507,37,4426.07
+2025-12-07,Meta Ads,Search,Retargeting,East,1350.31,99786,1890,220,20541.94
+2025-12-07,Google Ads,Search,Existing Customers,East,900.31,17614,617,61,7275.87
+2025-12-07,LinkedIn Ads,Social,Prospecting,East,722.62,13559,258,12,1468.53
+2025-12-07,Google Ads,Search,Prospecting,South,585.3,23612,610,54,7744.51
+2025-12-08,Meta Ads,Search,Retargeting,East,888.67,47595,1012,57,6276.0
+2025-12-08,Meta Ads,Video,Retargeting,West,571.6,39746,828,61,7619.82
+2025-12-08,Meta Ads,Search,Prospecting,South,1230.53,74607,1975,72,9418.08
+2025-12-09,Meta Ads,Search,Prospecting,South,249.61,21287,336,22,2452.14
+2025-12-09,Meta Ads,Social,Lookalike,North,492.28,34372,706,35,4748.5
+2025-12-09,YouTube Ads,Social,Retargeting,East,2644.44,259196,3565,248,33886.5
+2025-12-10,YouTube Ads,Social,Prospecting,North,465.97,42682,761,21,2936.79
+2025-12-10,Meta Ads,Social,Prospecting,North,599.4,36925,806,28,3451.05
+2025-12-10,Google Ads,Display,Retargeting,East,394.41,6142,297,30,4724.47
+2025-12-10,LinkedIn Ads,Search,Prospecting,North,870.77,15040,305,17,1766.72
+2025-12-11,YouTube Ads,Social,Lookalike,West,433.77,47372,660,28,4290.54
+2025-12-11,Google Ads,Display,Lookalike,South,620.44,11767,430,33,4251.37
+2025-12-11,Meta Ads,Video,Prospecting,South,1215.42,74170,1531,43,5982.46
+2025-12-12,Meta Ads,Social,Retargeting,East,444.47,23403,601,42,4588.05
+2025-12-12,Google Ads,Social,Prospecting,East,1168.74,30286,834,43,5598.62
+2025-12-12,Meta Ads,Search,Prospecting,South,1194.56,88726,1683,125,17585.69
+2025-12-13,Meta Ads,Search,Existing Customers,West,1389.64,80400,1920,205,21127.66
+2025-12-13,LinkedIn Ads,Search,Retargeting,West,766.96,10827,243,22,2465.32
+2025-12-13,LinkedIn Ads,Display,Existing Customers,North,5755.43,152768,1850,75,6193.05
+2025-12-13,LinkedIn Ads,Search,Prospecting,East,1389.26,25160,580,18,2012.22
+2025-12-14,Meta Ads,Display,Prospecting,South,864.59,60181,1291,68,6821.21
+2025-12-14,Google Ads,Search,Retargeting,West,396.12,10949,273,54,5998.33
+2025-12-14,LinkedIn Ads,Video,Retargeting,South,657.2,22983,241,17,2849.63
+2025-12-15,LinkedIn Ads,Display,Existing Customers,South,1769.04,51286,701,30,4727.82
+2025-12-15,Meta Ads,Search,Prospecting,East,2126.6,141866,3110,142,12650.77
+2025-12-15,YouTube Ads,Search,Existing Customers,West,1829.86,201847,2992,122,16470.43
+2025-12-16,Google Ads,Search,Existing Customers,North,1166.14,25953,1018,194,27107.86
+2025-12-16,YouTube Ads,Video,Retargeting,East,309.48,43643,593,7,762.42
+2025-12-16,Google Ads,Search,Prospecting,South,960.77,28530,818,50,5910.48
+2025-12-17,Google Ads,Social,Retargeting,East,312.36,8002,260,35,4198.87
+2025-12-17,Meta Ads,Social,Prospecting,East,266.19,17756,393,23,2087.5
+2025-12-17,Google Ads,Display,Lookalike,West,817.73,16856,615,33,3182.39
+2025-12-17,Google Ads,Social,Retargeting,West,983.54,22921,696,113,13345.45
+2025-12-18,Google Ads,Social,Existing Customers,East,1259.25,22786,938,99,12487.11
+2025-12-18,Meta Ads,Video,Retargeting,East,967.02,71371,1404,81,8281.92
+2025-12-18,LinkedIn Ads,Search,Retargeting,West,988.92,23714,365,23,2316.13
+2025-12-19,Google Ads,Display,Lookalike,North,369.1,9986,317,22,2494.45
+2025-12-19,Meta Ads,Search,Retargeting,East,653.83,41467,1107,92,12047.47
+2025-12-19,LinkedIn Ads,Social,Existing Customers,West,262.82,5576,98,6,736.28
+2025-12-20,Google Ads,Video,Prospecting,North,190.35,5245,162,12,1730.51
+2025-12-20,Google Ads,Display,Existing Customers,West,1132.86,15744,651,52,5755.01
+2025-12-20,YouTube Ads,Display,Lookalike,East,429.04,26564,586,16,1895.62
+2025-12-20,LinkedIn Ads,Search,Existing Customers,South,1234.23,24555,459,38,4457.87
+2025-12-21,Meta Ads,Social,Retargeting,South,1438.72,69892,1920,223,28005.08
+2025-12-21,LinkedIn Ads,Social,Lookalike,South,468.03,8760,190,4,403.73
+2025-12-21,Google Ads,Social,Prospecting,West,1027.4,33424,1049,77,11526.37
+2025-12-22,Meta Ads,Social,Lookalike,West,455.47,37818,836,47,3974.74
+2025-12-22,LinkedIn Ads,Social,Prospecting,West,210.87,7068,101,3,437.64
+2025-12-22,Google Ads,Social,Prospecting,East,758.42,19714,665,47,5481.13
+2025-12-23,LinkedIn Ads,Search,Retargeting,North,515.44,18717,301,17,2124.04
+2025-12-23,Meta Ads,Social,Prospecting,West,525.85,38952,797,39,5421.84
+2025-12-23,LinkedIn Ads,Search,Prospecting,North,2527.67,69688,1096,37,4826.2
+2025-12-24,Meta Ads,Video,Lookalike,North,259.63,17854,373,18,1833.47
+2025-12-24,Meta Ads,Social,Prospecting,North,897.8,57245,1386,77,9686.72
+2025-12-24,Google Ads,Search,Lookalike,West,366.67,9838,337,25,3715.36
+2025-12-24,Google Ads,Display,Prospecting,South,1263.26,33330,834,75,7427.16
+2025-12-25,LinkedIn Ads,Display,Lookalike,North,849.85,20270,319,13,1990.71
+2025-12-25,Google Ads,Search,Lookalike,North,895.74,32000,852,114,13901.46
+2025-12-25,Google Ads,Search,Retargeting,South,378.76,9105,333,50,5360.1
+2025-12-26,Google Ads,Search,Lookalike,East,425.58,9708,372,34,3363.31
+2025-12-26,Google Ads,Search,Existing Customers,West,1278.95,34321,1258,219,26249.19
+2025-12-26,LinkedIn Ads,Display,Lookalike,East,2212.99,66768,1043,44,3511.42
+2025-12-27,Meta Ads,Video,Prospecting,East,956.5,49131,1130,43,4623.6
+2025-12-27,YouTube Ads,Search,Retargeting,West,390.63,52239,720,54,5954.43
+2025-12-27,Google Ads,Display,Lookalike,West,872.52,31701,904,51,4878.69
+2025-12-27,Meta Ads,Search,Prospecting,South,3391.19,188639,4743,330,42392.2
+2025-12-28,Meta Ads,Social,Lookalike,West,748.19,40016,1020,79,8773.91
+2025-12-28,Meta Ads,Display,Prospecting,East,1810.35,132119,3448,196,20296.92
+2025-12-28,YouTube Ads,Social,Lookalike,West,432.62,55861,751,29,3165.18
+2025-12-29,YouTube Ads,Search,Prospecting,North,681.11,55102,1022,55,6676.56
+2025-12-29,YouTube Ads,Social,Prospecting,North,1047.12,122406,1680,49,5699.58
+2025-12-29,Google Ads,Video,Existing Customers,West,906.28,14021,552,34,3759.48
+2025-12-30,Google Ads,Search,Existing Customers,East,425.36,9491,303,55,6965.35
+2025-12-30,Meta Ads,Search,Existing Customers,North,413.6,21580,456,32,3942.88
+2025-12-30,Google Ads,Search,Existing Customers,West,1330.71,32647,739,61,6224.98
+2025-12-31,LinkedIn Ads,Social,Retargeting,North,1518.67,32849,560,37,4062.86
