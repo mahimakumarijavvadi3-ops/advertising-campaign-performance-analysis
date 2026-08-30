@@ -1,0 +1,184 @@
+# Predictive modeling and diagnostic evidence for campaign revenue.
+# Base R only: no external packages are required.
+
+data <- read.csv("outputs/clean_advertising_campaigns.csv",
+                 stringsAsFactors = FALSE)
+
+data$platform <- factor(data$platform)
+data$campaign_type <- factor(data$campaign_type)
+data$audience <- factor(data$audience)
+
+train <- subset(data, split == "train")
+test <- subset(data, split == "test")
+
+model <- lm(
+  revenue ~ spend + impressions + clicks + conversions +
+    platform + campaign_type + audience,
+  data = train
+)
+
+pred <- predict(model, newdata = test)
+
+rmse <- sqrt(mean((test$revenue - pred)^2))
+mae <- mean(abs(test$revenue - pred))
+
+test_r2 <- 1 -
+  sum((test$revenue - pred)^2) /
+  sum((test$revenue - mean(test$revenue))^2)
+
+sm <- summary(model)
+
+metrics <- data.frame(
+  metric = c(
+    "Train_R2",
+    "Adjusted_R2",
+    "Test_R2",
+    "RMSE",
+    "MAE",
+    "F_statistic",
+    "F_p_value"
+  ),
+  value = c(
+    sm$r.squared,
+    sm$adj.r.squared,
+    test_r2,
+    rmse,
+    mae,
+    unname(sm$fstatistic[1]),
+    pf(
+      sm$fstatistic[1],
+      sm$fstatistic[2],
+      sm$fstatistic[3],
+      lower.tail = FALSE
+    )
+  )
+)
+
+write.csv(
+  metrics,
+  "outputs/model_metrics.csv",
+  row.names = FALSE
+)
+
+coefs <- as.data.frame(sm$coefficients)
+coefs$term <- rownames(coefs)
+rownames(coefs) <- NULL
+
+names(coefs) <- c(
+  "estimate",
+  "std_error",
+  "t_value",
+  "p_value",
+  "term"
+)
+
+coefs <- coefs[
+  ,
+  c("term", "estimate", "std_error", "t_value", "p_value")
+]
+
+write.csv(
+  coefs,
+  "outputs/model_coefficients.csv",
+  row.names = FALSE
+)
+
+capture.output(
+  sm,
+  file = "outputs/model_summary.txt"
+)
+
+predictions <- data.frame(
+  actual_revenue = test$revenue,
+  predicted_revenue = as.numeric(pred)
+)
+
+write.csv(
+  predictions,
+  "outputs/test_predictions.csv",
+  row.names = FALSE
+)
+
+png(
+  "outputs/plots/actual_vs_predicted_revenue.png",
+  width = 1000,
+  height = 600
+)
+
+plot(
+  test$revenue,
+  pred,
+  pch = 19,
+  xlab = "Actual Revenue",
+  ylab = "Predicted Revenue",
+  main = "Actual vs Predicted Revenue"
+)
+
+abline(0, 1, lwd = 2)
+dev.off()
+
+png(
+  "outputs/plots/diagnostic_residuals_vs_fitted.png",
+  width = 1000,
+  height = 600
+)
+
+plot(
+  model,
+  which = 1,
+  main = "Residuals vs Fitted"
+)
+
+dev.off()
+
+png(
+  "outputs/plots/diagnostic_qq_plot.png",
+  width = 1000,
+  height = 600
+)
+
+plot(
+  model,
+  which = 2,
+  main = "Normal Q-Q Plot"
+)
+
+dev.off()
+
+png(
+  "outputs/plots/diagnostic_scale_location.png",
+  width = 1000,
+  height = 600
+)
+
+plot(
+  model,
+  which = 3,
+  main = "Scale-Location"
+)
+
+dev.off()
+
+png(
+  "outputs/plots/diagnostic_residuals_vs_leverage.png",
+  width = 1000,
+  height = 600
+)
+
+plot(
+  model,
+  which = 5,
+  main = "Residuals vs Leverage"
+)
+
+dev.off()
+
+cat(
+  "Predictive model completed. Test RMSE:",
+  round(rmse, 2),
+  "Test MAE:",
+  round(mae, 2),
+  "Test R-squared:",
+  round(test_r2, 4),
+  "\n"
+)
