@@ -53,7 +53,8 @@ clean_data[] <- lapply(clean_data, function(x) {
 
 write.csv(
   clean_data,
-  file.path(output_dir, "cleaned_advertising_data.csv"),
+  file.path(output_dir, "clean_advertising_campaigns.
+            .csv"),
   row.names = FALSE
 )
 
