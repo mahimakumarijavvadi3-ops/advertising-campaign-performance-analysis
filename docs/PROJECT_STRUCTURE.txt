@@ -1,0 +1,19 @@
+PROJECT UPLOAD AND EXECUTION ORDER
+
+1. README.md
+2. LICENSE
+3. run_all.R
+4. data/advertising_campaigns.csv
+5. R/01_validate_and_clean.R
+6. R/02_eda.R
+7. R/03_predictive_model.R
+8. R/04_key_insights.R
+9. R/05_statistical_tests.R
+10. .github/workflows/r-analysis.yml
+11. outputs/ (generated numerical evidence)
+12. outputs/plots/ (generated charts and diagnostics)
+13. docs/Advertising_Campaign_Performance_Report.docx
+14. docs/Advertising_Campaign_Performance_Report.pdf
+15. docs/Project_File_Guide.pdf
+
+Do not change the folder names. Run run_all.R from the repository root.
