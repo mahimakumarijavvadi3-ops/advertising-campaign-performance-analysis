@@ -2,14 +2,14 @@
 # Exploratory and descriptive analysis
 
 output_dir <- "outputs"
-data_file <- file.path(output_dir, "clean_advertising_campaigns.csv")
+clean_file <- file.path(output_dir, "clean_advertising_campaigns.csv")
 
-if (!file.exists(data_file)) {
-  stop("Cleaned dataset not found. Run 01_validate_and_clean.R first.")
+if (!file.exists(clean_file)) {
+  source(file.path("R"
+,01_validate_and_clean.R"))
 }
-
-data <- read.csv(
-  data_file,
+clean <- read.csv(
+  clean_file,
   stringsAsFactors = FALSE,
   check.names = FALSE
 )
