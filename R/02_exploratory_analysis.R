@@ -1,8 +1,8 @@
 # 02_exploratory_analysis.R
 # Exploratory and descriptive analysis
 
-output_dir <- "output"
-data_file <- file.path(output_dir, "cleaned_advertising_data.csv")
+output_dir <- "outputs"
+data_file <- file.path(output_dir, "clean_advertising_campaigns.csv")
 
 if (!file.exists(data_file)) {
   stop("Cleaned dataset not found. Run 01_validate_and_clean.R first.")
