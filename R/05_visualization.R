@@ -1,7 +1,7 @@
 # 05_visualization.R
 # Advertising campaign visualizations
 
-output_dir <- "outputs"
+output_dir <- "output"
 plot_dir <- file.path(output_dir, "plots")
 
 if (!dir.exists(plot_dir)) {
