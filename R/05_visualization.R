@@ -1,14 +1,14 @@
 # 05_visualization.R
 # Advertising campaign visualizations
 
-output_dir <- "output"
+output_dir <- "outputs"
 plot_dir <- file.path(output_dir, "plots")
 
 if (!dir.exists(plot_dir)) {
   dir.create(plot_dir, recursive = TRUE)
 }
 
-data_file <- file.path(output_dir, "cleaned_advertising_data.csv")
+data_file <- file.path(output_dir, "clean_advertising_campaigns.csv")
 
 if (!file.exists(data_file)) {
   stop("Cleaned dataset not found.")
