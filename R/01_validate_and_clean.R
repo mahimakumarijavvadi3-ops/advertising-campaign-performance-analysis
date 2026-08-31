@@ -4,7 +4,7 @@
 options(stringsAsFactors = FALSE)
 
 data_dir <- "data"
-output_dir <- "output"
+output_dir <- "outputs"
 
 if (!dir.exists(output_dir)) {
   dir.create(output_dir, recursive = TRUE)
