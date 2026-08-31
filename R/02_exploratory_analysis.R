@@ -6,7 +6,7 @@ clean_file <- file.path(output_dir, "clean_advertising_campaigns.csv")
 
 if (!file.exists(clean_file)) {
   source(file.path("R"
-,01_validate_and_clean.R"))
+,"01_validate_and_clean.R"))
 }
 clean <- read.csv(
   clean_file,
